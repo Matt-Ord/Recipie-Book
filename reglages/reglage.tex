@@ -1,0 +1,85 @@
+\usepackage{lmodern}
+
+\usepackage{multirow}
+\usepackage{afterpage}
+\usepackage{float}
+\usepackage{ifthen}
+\usepackage{framed}
+\usepackage{xspace}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\usepackage{booktabs}
+
+
+\usepackage[dvips]{color}
+\usepackage{titlesec}
+
+
+
+%----------------------------------------
+%design
+\usepackage{amsmath,tikz}
+\usepackage{verbatim}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{arrows}
+
+%----------------------------------------
+%colour
+\usepackage{colortbl}
+\definecolor{darkred}{rgb}{.7,0.03,0.22}
+\definecolor{red_tab}{rgb}{0.96,0.88,0.86}
+\definecolor{darkblue}{HTML}{0000CC}
+\definecolor{vdarkblue}{HTML}{000066}
+\definecolor{texte}{HTML}{660099}
+\definecolor{comt}{HTML}{009933}
+%-----------------------------------------
+
+
+%------------------------------------------
+\newcounter{step}
+\newcounter{substep}
+\setcounter{step}{0}
+\setcounter{substep}{0}
+%------------------------------------------
+
+\usepackage{tabularx}
+\usepackage{makecell}
+
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+\usepackage{wasysym}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+%-----------------------------------------
+%format page
+\usepackage[a4paper,left=2cm,right=2cm,top=2cm,bottom=3cm]{geometry}
+
+%----------------------------------------
+%page numbering
+\usepackage{fancyhdr}
+\fancyhf{}
+\cfoot{\thepage}
+\pagestyle{fancy}
+
+%-----------------------------------------
+%lien hyper-links
+\usepackage[colorlinks, bookmarks, linkcolor=black, citecolor=black, urlcolor=blue]{hyperref}
+
+\newcommand{\Style}[1]{
+    \ifthenelse{#1=1}{\input{reglages/reglage_s1}}{}
+    \ifthenelse{#1=2}{\input{reglages/reglage_s2}}{}
+    \ifthenelse{#1=3}{\input{reglages/reglage_s3}}{}}
+
+\newcommand{\grams}[1]{#1 g}
+\newcommand{\ml}[1]{#1 ml}
+\newcommand{\tablespoons}[1]{#1 tbsp}
+\newcommand{\teaspoons}[1]{#1 tsp }
+\newcommand{\cups}[1]{#1 cups }

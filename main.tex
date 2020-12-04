@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{book}
+\input{reglages/reglage}
+
+\setcounter{secnumdepth}{0}
+\newcommand{\invisiblechapter}[1]{%
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+  \chaptermark{#1}}
+
+\Style{3}
+
+\title{Recipe Book}
+\author{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\invisiblechapter{sad}
+\input{recipies/florentin}
+\input{recipies/biryiani}
+\input{recipies/salmon and salsa}
+\input{recipies/nasi goreng}
+\input{recipies/lamb pasta bake.tex}
+\input{recipies/sausage pasta bake.tex}
+\input{recipies/moqueca baiana.tex}
+\input{recipies/carbonara.tex}
+\input{recipies/potato dauphinoise.tex}
+
+\input{recipies/chocolate roulade.tex}
+\end{document}
