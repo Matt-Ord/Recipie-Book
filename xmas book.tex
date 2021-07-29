@@ -1,0 +1,64 @@
+\documentclass[a4paper,12pt]{book}
+\input{reglages/reglage}
+
+\usepackage{textcomp}
+\usepackage{gensymb}
+
+\setcounter{secnumdepth}{0}
+\newcommand{\invisiblechapter}[1]{%
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+  \chaptermark{#1}}
+
+\Style{3}
+
+\title{Recipe Book}
+\author{}
+\date{December 25, 2020}
+
+\begin{document}
+\maketitle
+\tableofcontents
+%\invisiblechapter{sad}
+\chapter{Asian}
+%\input{recipies/florentin}
+\input{recipies/indian/biryiani}
+\input{recipies/south east asian/nasi goreng}
+\input{recipies/south east asian/moqueca baiana.tex}
+\input{recipies/thai green curry.tex}
+\chapter{Italian}
+\input{recipies/italian/carbonara.tex}
+\input{recipies/italian/salmon carbonanra.tex}
+\input{recipies/italian/chicken risotto.tex}
+\input{recipies/italian/paella.tex}
+\input{recipies/greek/lamb pasta bake.tex}
+\input{recipies/italian/sausage pasta bake.tex}
+\input{recipies/italian/ricotta pasta bake.tex}
+\input{recipies/italian/bolognese pasta bake.tex}
+\input{recipies/italian/tomato ragu.tex}
+\chapter{French}
+\input{recipies/french/potato dauphinoise.tex}
+\input{recipies/french/beef stew.tex}
+\input{recipies/lamb ratatouille.tex}
+\input{recipies/french/coq au vin.tex}
+\chapter{Other}
+\input{recipies/french/beef stroganoff.tex}
+\input{recipies/toad in the hole.tex}
+\input{recipies/fish pie.tex}
+\input{recipies/roasted ham.tex}
+\input{recipies/cauliflower cheese.tex}
+\input{recipies/spanish/patatas bravas.tex}
+\input{recipies/salmon and salsa}
+\chapter{Deserts}
+\input{recipies/deserts/chocolate roulade.tex}
+\input{recipies/deserts/yule log.tex}
+\input{recipies/deserts/apple crumble.tex}
+\input{recipies/deserts/apple frangipane.tex}
+\input{recipies/deserts/fruit cake.tex}
+\input{recipies/deserts/lemon drizzle cake.tex}
+\input{recipies/deserts/strawberry pavlova.tex}
+\input{recipies/deserts/caramel drip cake.tex}
+\input{recipies/deserts/ginger cake.tex}
+\input{recipies/deserts/victoria sandwich.tex}
+\input{recipies/deserts/chocolate brownies.tex}
+\end{document}
