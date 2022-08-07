@@ -41,11 +41,12 @@
 
 - [Carbonara](generated/italian/carbonara.md)
 - [Lasagne](generated/italian/lasagne.md)
-- [Prawn Linguine](generated/italian/prawn%20linguine.md)
+- [Prawn Linguine](generated/italian/prawn_linguine.md)
 - [Tortellini](generated/italian/tortellini.md)
-- [Chicken Parmesan](generated/italian/chicken%20parmesan.md)
-- [Tomato Pasta](generated/italian/tomato%20pasta.md)
-- [Pesto Chicken Pasta](generated/italian/pesto%20chicken%20pasta.md)
+- [Chicken Parmesan](generated/italian/chicken_parmesan.md)
+- [Tomato Pasta](generated/italian/tomato_pasta.md)
+- [Pesto Chicken Pasta](generated/italian/pesto_chicken_pasta.md)
+- [Butternut Squash Risotto](generated/italian/butternut_squash_risotto.md)
 
 ## French Recipes
 
