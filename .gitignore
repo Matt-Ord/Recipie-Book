@@ -1,9 +1,9 @@
 src/book_generator/target
 cargo.lock
-# *.fls
-# *.out
-# *.aux
-# *.log
-# *.fdb_latexmk
-# *.gz
-# *.toc
+*.fls
+*.out
+*.aux
+*.log
+*.fdb_latexmk
+*.gz
+*.toc
