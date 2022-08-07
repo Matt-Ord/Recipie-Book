@@ -53,7 +53,10 @@
                         "Tablespoon",
                         "Grams",
                         "Millilitre",
-                        "Kilograms"
+                        "Kilograms",
+                        "Teaspoon",
+                        "Cup",
+                        "Tins"
                       ]
                     },
                     "number": {
