@@ -1,0 +1,159 @@
+{
+  "name": "Five-Spice Chicken",
+  "prep_time": 1200,
+  "cook_time": 2400,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "medium white cabbage",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 10.0
+          }
+        },
+        {
+          "name": "dried red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "sichuan peppercorns",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bunch spring onions",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cornflour"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "five spice",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "small red onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "shaoxing wine",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "chinese black vinegar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "oyster sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the marinade ingredients in a bowl and add the chicken. Once marinaded cook the chicken in the oven for 35 mins at 190°C.",
+    "To make the cabbage stir-fry heat oil in a pan on medium and fry the chillies, garlic and sichuan peppercorns. Chop the cabbage into strips and stir fry on high for 2 mins.",
+    "Mix the sauce ingredients and add to the stir fry along with spring onions. Dissolve 1 tbsp cornstarch in water and add to the pan and fry until the sauce thickens."
+  ]
+}

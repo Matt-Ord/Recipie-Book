@@ -1,0 +1,133 @@
+{
+  "name": "Ginger Chicken",
+  "prep_time": 600,
+  "cook_time": 3600,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken thigh fillets",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "shaoxing rice wine",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "round black pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cornflour",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "mushrooms",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "sliced garlic",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "shallots",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "fish sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "oyster sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bunch spring onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "groundnut oil"
+        },
+        {
+          "name": "rice and salad to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the chicken into 5cm chunks and place in a dish.",
+    "Mix the soy sauce, rice wine, 1/2 tsp salt, 1/4 tsp pepper and sesame oil and pour over the chicken.",
+    "Mix in the cornflour until the pieces are thouroughly coated.",
+    "Wash the mushrooms slice finely and discard the stems.",
+    "Heat a wock on high heat and fry the ginger in groundnut oil until crispy. Add the chicken and fry until brown.",
+    "In a fresh pan fry the garlic and shallots. Add back in the chicken and mushrooms and fry for 2 mins.",
+    "Add the fish sauce, oyster sauce, sugar and chicken stock. Cover and simmer for 8 mins.",
+    "Add the spring onions and remove the cover to allow the sauce to reduce. Serve with rice and salad."
+  ]
+}

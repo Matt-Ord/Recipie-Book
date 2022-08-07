@@ -1,0 +1,56 @@
+{
+  "name": "Tomato Pasta",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 2,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "baby plum tomatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 650.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "basil",
+          "amount": {
+            "unit": "Grams",
+            "number": 30.0
+          }
+        },
+        {
+          "name": "spaghetti",
+          "amount": {
+            "unit": "Grams",
+            "number": 300.0
+          }
+        },
+        {
+          "name": "parmesan to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic on low before adding the tomatoes whole, followed by the onion. Season with salt and pepper.",
+    "Add the pasta to a pot of boiling water. Once the tomatoes crack open squash with a spatula, chop and add the basil.",
+    "If the sauce begins to look dry add some of the pasta water, and once the pasta is almost cooked transfer into the pan with the sauce.",
+    "Cook through for a couple of minutes before serving with a decent amount of parmesan."
+  ]
+}

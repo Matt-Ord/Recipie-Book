@@ -1,0 +1,160 @@
+{
+  "name": "Chicken Tikka Masala",
+  "prep_time": 900,
+  "cook_time": 2700,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "plain yoghurt",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "grated ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 9.0
+          }
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": {
+            "unit": "Tins",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cream",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 150.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "salad to serve"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Tikka Marinade",
+      "ingredients": [
+        {
+          "name": "fresh ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "garam masala",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "ground coriander",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "paprika",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sauce Spices",
+      "ingredients": [
+        {
+          "name": "tumeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "garam masala",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cumin",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Marinade the chicken before frying on high until the surface of the chicken is charred.",
+    "Fry the garlic, onions and ginger in butter before adding the sauce spices, frying for 3 mins.",
+    "Add the chopped tomatoes and simmer for 15 mins before adding the cream, sugar and chicken back to the pan.",
+    "Once the chicken is cooked through serve with rice and salad."
+  ]
+}

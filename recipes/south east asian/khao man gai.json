@@ -1,0 +1,103 @@
+{
+  "name": "Khao Man Gai",
+  "prep_time": 900,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Grams",
+            "number": 750.0
+          }
+        },
+        {
+          "name": "potato starch",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "fish sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "salt and pepper"
+        },
+        {
+          "name": "Cucumber, sliced"
+        },
+        {
+          "name": "Coriander"
+        },
+        {
+          "name": "cooked rice"
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "name": "fish sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "finely sliced ginger",
+          "amount": {
+            "unit": "Grams",
+            "number": 45.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "miso",
+          "amount": {
+            "unit": "Grams",
+            "number": 60.0
+          }
+        },
+        {
+          "name": "oyster sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic in a pan before mixing in the rice. Dissolve the sugar in the fish sauce before adding to the rice.",
+    "Heat water in a pot and boil the chicken for 15 mins. Combine the sauce ingredients and serve along with the sliced chicken, rice, cucumber and coriander."
+  ]
+}

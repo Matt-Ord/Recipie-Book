@@ -1,0 +1,121 @@
+{
+  "name": "Hainanese Chicken Rice",
+  "prep_time": 600,
+  "cook_time": 3600,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chicken stock"
+        },
+        {
+          "name": "5--6 slices ginger"
+        },
+        {
+          "name": "bunches spring onion",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "uncooked jasmine rice"
+        }
+      ]
+    },
+    {
+      "name": "Ginger-Garlic Sauce",
+      "ingredients": [
+        {
+          "name": "4-inch piece ginger"
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sweet Soy Sauce",
+      "ingredients": [
+        {
+          "name": "tablespoons sugar",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cup soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chilli Sauce",
+      "ingredients": [
+        {
+          "name": "red chiles",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "3-inch ginger"
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "small lime",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "rice vinegar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bring a pot of water along with ginger and spring onions and stock cubes to boil and add the chicken, setting aside the piece of chicken fat at the back cavity.",
+    "Once the water boils, lift the chicken out of the water to pour out the colder water that is trapped in the cavity. Cover and leave the pot on the stove for 45--50 minutes. To check if the chicken is done stick a toothpick into the drumstick. If the juices run clear, it’s cooked through.",
+    "Transfer the chicken into cold water / ice for 15 minutes. Drain and leave until ready to serve.",
+    "To make the rice heat a pan and add the chicken fat. Stir in the minced garlic and fry briefly. Add the uncooked rice and stir continuously for about two minutes. Add to the rice cooker along with chicken stock from the pot and cook.",
+    "For the ginger-garlic sauce grind the ginger and garlic in a food processor until a paste forms. Gently fry until lightly caramelised. Add salt to taste.",
+    "To make sweet soy sauce dissolve sugar in 1/3 cup water in a saucepan. Stir constantly until a syrup forms. Combine with the soy sauce and transfer to a dish.",
+    "For the chilli sauce grind the chilies, ginger, and garlic in a food processor until finely chopped. Combine with the sesame oil, salt, sugar, lime juice, and vinegar. Transfer to a small bowl and add chicken broth 1 tablespoon at a time until a saucy consistency is achieved."
+  ]
+}

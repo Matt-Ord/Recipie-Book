@@ -1,0 +1,70 @@
+{
+  "name": "Salmon Carbonara",
+  "prep_time": 600,
+  "cook_time": 600,
+  "serves": 2,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": {
+            "unit": "Grams",
+            "number": 200.0
+          }
+        },
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "clove garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "double cream",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 150.0
+          }
+        },
+        {
+          "name": "eggs",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "smoked salmon",
+          "amount": {
+            "unit": "Grams",
+            "number": 120.0
+          }
+        },
+        {
+          "name": "chives to garnish"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the spaghetti. Meanwhile, melt the butter in a small pan, add the garlic and gently sizzle for 1 min. Remove from the heat.",
+    "Lightly beat the cream, eggs, softened garlic and half the Parmesan in a bowl. Stir in the smoked salmon trimmings.",
+    "Drain the pasta well and return to the pan. Add the salmon mixture and the chives, then toss well so the heat from the pasta lightly thickens the sauce.",
+    "Serve scattered with the remaining Parmesan and plenty of black pepper."
+  ]
+}

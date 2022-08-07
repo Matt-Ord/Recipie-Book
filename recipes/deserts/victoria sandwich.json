@@ -1,0 +1,95 @@
+{
+  "name": "Victoria Sandwich",
+  "prep_time": 2400,
+  "cook_time": 1200,
+  "serves": 5,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "caster sugar",
+          "amount": {
+            "unit": "Grams",
+            "number": 200.0
+          }
+        },
+        {
+          "name": "softened butter",
+          "amount": {
+            "unit": "Grams",
+            "number": 200.0
+          }
+        },
+        {
+          "name": "eggs beaten",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "self-raising flour",
+          "amount": {
+            "unit": "Grams",
+            "number": 200.0
+          }
+        },
+        {
+          "name": "baking powder",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "milk",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "filling",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        },
+        {
+          "name": "icing sugar",
+          "amount": {
+            "unit": "Grams",
+            "number": 140.0
+          }
+        },
+        {
+          "name": "drop vanilla extract",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "strawberry jam"
+        },
+        {
+          "name": "icing sugar"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 290°C.",
+    "In a large bowl, beat caster sugar, softened butter, beaten eggs, self-raising flour, baking powder and milk together until you have a smooth, soft batter.",
+    "Divide the mixture between the tins, smooth the surface with a spatula or the back of a spoon.",
+    "Bake for about 20 mins until golden and the cake springs back when pressed. Turn onto a cooling rack and leave to cool completely.",
+    "To make the filling, beat the 100g softened butter until smooth and creamy, then gradually beat in 140g sifted icing sugar and a drop of vanilla extract (if you’re using it).",
+    "Spread the buttercream over the bottom of one of the sponges. Top it with 170g strawberry jam and sandwich the second sponge on top.",
+    "Dust with a little icing sugar before serving. Keep in an airtight container and eat within 2 days."
+  ]
+}

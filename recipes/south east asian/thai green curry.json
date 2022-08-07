@@ -1,0 +1,62 @@
+{
+  "name": "Thai Green Curry",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "Thai green curry paste",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken thighs",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "coconut milk",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "fish sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "caster sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bamboo shoots"
+        },
+        {
+          "name": "salad to serve"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oil in a wok over a high heat. Add the green curry paste and stir fry for 1–2 minutes, or until fragrant.",
+    "Add the chicken strips and stir until coated in the curry paste. Continue to stir-fry until the chicken has browned on all sides.",
+    "Add the coconut milk, fish sauce and sugar and stir well. Simmer the mixture for 8–10 minutes, or until the sauce has thickened.",
+    "Add the bamboo shoots and continue to simmer for 2–3 minutes, stirring regularly. Serve with rice and salad."
+  ]
+}

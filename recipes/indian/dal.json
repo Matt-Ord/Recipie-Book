@@ -1,0 +1,115 @@
+{
+  "name": "Masoor Dal",
+  "prep_time": 600,
+  "cook_time": 3000,
+  "serves": 8,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "cups red lentils",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 16.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "green chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "curry powder",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "mustard seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cumin",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tin chopped tomatoes",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Biriyani Rice",
+      "ingredients": [
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "biriyani masala"
+        },
+        {
+          "name": "basmati rice"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Wash the lentils, then add 16 cups water and boil.",
+    "To prepare the biriyani rice finely dice the onions and fry in oil/ butter until brown. Fry the spices in a little excess oil before stiring into the onions. Add this mix to the rice.",
+    "Prepare the Dal tadka. Heat oil in a pan and add the garlic, ginger, chillies and some salt. After around 30 second add the onion and fry until soft.",
+    "Add the curry powder, mustard, corriander, cumin and salt and cook for 30 seconds. Add the tomatoes and allow the mixture to simmer.",
+    "Skim the lentils as it begins to foam and remove the lid to allow the mixture to simmer until tender.",
+    "Drain some of the liquid from the lentils before adding the tadka. Allow the mixture to simmer for 5 mins."
+  ]
+}

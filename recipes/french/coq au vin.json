@@ -1,0 +1,106 @@
+{
+  "name": "Coq Au Vin",
+  "prep_time": 1500,
+  "cook_time": 5400,
+  "serves": 3,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken thighs and drumsticks",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "strips bacon",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "pack mushrooms",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "red onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "medium carrots",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tomato paste",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "flour",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "red wine",
+          "amount": {
+            "unit": "Cup",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken broth",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "brandy",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "small bunch thyme"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "In a large pot over medium heat, add bacon and cook until crispy, about 8 minutes. Using a slotted spoon, remove bacon to a paper towel-lined plate.",
+    "To same pot, add chicken, working in batches as necessary. Cook until skin is golden, 4 to 5 minutes per side. Remove chicken to a plate.",
+    "To same pot, add mushrooms, onions, and carrots and cook until golden, about 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat vegetables, then add flour and stir until vegetables are coated. Slowly pour in wine, broth, and brandy. Return chicken and half the bacon to pot. Add thyme, season with salt and pepper and bring to a boil.",
+    "Once boiling, cover with lid and simmer gently until chicken is cooked through, 20 to 30 minutes. Remove chicken from pot and place on a plate to keep warm.",
+    "Remove lid, add butter and simmer until sauce is thickened."
+  ]
+}

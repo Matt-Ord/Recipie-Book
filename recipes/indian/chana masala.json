@@ -1,0 +1,157 @@
+{
+  "name": "Chana Masala",
+  "prep_time": 600,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "canned chickpeas",
+          "amount": {
+            "unit": "Tins",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": {
+            "unit": "Tins",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tablespoons ginger",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 10.0
+          }
+        },
+        {
+          "name": "green chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "large red onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tomato paste",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "salt"
+        }
+      ]
+    },
+    {
+      "name": "Whole Spices",
+      "ingredients": [
+        {
+          "name": "bay leaves",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "green cardamom pods",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 9.0
+          }
+        },
+        {
+          "name": "cinnamon sticks",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "black peppercorns",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cumin seeds",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ground Spices",
+      "ingredients": [
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "cumin powder",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "paprika",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "garam masala",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat a pot on medium, add some oil and the whole spices. Fry for a few minites before adding the ginger, garlic and green chillies.",
+    "Fry for a few minutes before adding the onions. Once softened add the chopped tomatoes and cook for 5 minutes.",
+    "Add the ground spices and cook for 30 seconds. Stir in the chickpeas along with 5 cups water and mix.",
+    "Simmer for 10--15 minutes for the flavors to mix-in together. Serve with basmati rice or saag aloo."
+  ]
+}

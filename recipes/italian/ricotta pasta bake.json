@@ -1,0 +1,128 @@
+{
+  "name": "Spinach \\& Ricotta Pasta Bake",
+  "prep_time": 900,
+  "cook_time": 2400,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "pasta",
+          "amount": {
+            "unit": "Grams",
+            "number": 300.0
+          }
+        },
+        {
+          "name": "mozzarella",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.5
+          }
+        }
+      ]
+    },
+    {
+      "name": "ricotta",
+      "ingredients": [
+        {
+          "name": "ricotta",
+          "amount": {
+            "unit": "Grams",
+            "number": 500.0
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Grams",
+            "number": 50.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "spinach",
+          "amount": {
+            "unit": "Grams",
+            "number": 350.0
+          }
+        },
+        {
+          "name": "mozzarella",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "pasta sauce",
+      "ingredients": [
+        {
+          "name": "garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "passata",
+          "amount": {
+            "unit": "Grams",
+            "number": 700.0
+          }
+        },
+        {
+          "name": "garlic powder",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "onion powder",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "mixed italian herbs",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "dried chilli flakes",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180°C.",
+    "Cook pasta for 1 minute less than packet instructions.",
+    "Mix together the pasta sauce ingredients. In a separate bowl mix the ricotta ingredients.",
+    "Add pasta to ricotta and stir to combine. Transfer to a heatproof baking dish.",
+    "Top with Pasta Sauce, top with cheese. Loosely cover with foil.",
+    "Bake for 25 minutes, then remove the cover and bake for a further 10 minutes or until the cheese is melted and bubbly."
+  ]
+}

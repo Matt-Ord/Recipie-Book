@@ -1,0 +1,126 @@
+{
+  "name": "Szechuan Shrimp",
+  "prep_time": 600,
+  "cook_time": 1500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "prawns",
+          "amount": {
+            "unit": "Grams",
+            "number": 700.0
+          }
+        },
+        {
+          "name": "cornstarch",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chilli bean sauce",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "shallots",
+          "amount": {
+            "unit": "Grams",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "ketchup",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "hoisin sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "shaoxing wine",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "water chestnuts",
+          "amount": {
+            "unit": "Grams",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "carrots finely chopped",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "red bell peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "bunch spring onion.",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cornstarch",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Coat the shrimp in cornstarch and set aside. Fry the ginger, chilli bean sauce, garlic and shallots on low for 2 mins.",
+    "Stir in the ketchup and hoisin sauce and fry for 2 mins. Add the Shaoxing wine, water chestnuts, carrrots and the red bell pepper and fry for 2 mins before adding the chicken stock.",
+    "Allow the mixture to simmer before adding the rice vinegar, sesame oil, salt and pepper to taste. Simmer for 3 minutes before adding the prawns.",
+    "Add the cornfour and allow the suce to thicken. Once the prawns are cooked through serve with rice."
+  ]
+}

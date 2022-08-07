@@ -1,0 +1,145 @@
+{
+  "name": "Kung-Pao Chicken",
+  "prep_time": 900,
+  "cook_time": 900,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Grams",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "sichuan peppercorns",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "birdseye chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "2--3 red bell pepper"
+        },
+        {
+          "name": "handful of cashew nuts"
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "pinch chinese 5 spice"
+        },
+        {
+          "name": "light soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cornstarch",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "hoisin sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "rice vinegar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tomato paste",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 100.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Soak large red chillies, in hot water for 10--15 minutes.",
+    "Finely slice the onion and red pepper, and cut the chicken thighs into cubes. Finely dice the garlic and birdseye chillies and crush the sichuan peppercorns.",
+    "Add all of the marinade ingridents into a bowl and marinade the chicken.  In a separate bowl, mix all of the sauce ingredients together.",
+    "Heat 1 tablespoon of vegetable oil in a wok to high heat. Add the onions and peppers and stir-fry for 2 minutes.",
+    "Push the onions and peppers to one side of the wok and add an extra 1/2 a teaspoon of oil to centre of wok. Add the chicken and allow to sear on one side before folding it through with the peppers and onions. Fry until golden brown.",
+    "Add the chopped garlic, birdseye chillies red chillies and sichuan peppercorns immediately followed by the sauce, and continue to cook for 2 minutes.",
+    "Add cashew nuts and serve with white rice."
+  ]
+}

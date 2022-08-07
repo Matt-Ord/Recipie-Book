@@ -1,0 +1,11 @@
+[package]
+name = "book_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "3.2.16", features = ["derive"] }
+regex = "1.5.5"
+serde = { version = "1.0.136", features = ["derive"] }
+serde_json = "1.0.79"
+serde_with = "1.13.0"

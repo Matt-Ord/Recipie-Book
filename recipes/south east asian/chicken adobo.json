@@ -1,0 +1,94 @@
+{
+  "name": "Chicken Adobo",
+  "prep_time": 1800,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken drums",
+          "amount": {
+            "unit": "Number",
+            "number": 18.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "green chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "white vinegar",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "whole peppercorns",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "ground pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bay leaves",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "peas to serve"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the chicken wings in the pot until browned, around 8 mins.",
+    "Remove the chicken wings and fry the garlic, chillies and onions.",
+    "Once the onions are soft add the remaining ingredients along with the browned chicken to the pot. Cook with the lid on for 35-40 mins until chicken is tender.",
+    "Remove the chicken and boil with the lid off until the sauce has thickened. Serve with rice and peas."
+  ]
+}

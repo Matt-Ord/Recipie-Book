@@ -1,0 +1,75 @@
+{
+  "name": "Saag Aloo",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "spinach",
+          "amount": {
+            "unit": "Grams",
+            "number": 500.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "grated ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "black mustard seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cumin seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "salt"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat oil in a pan, cook the onions until they begin to soften. Add garlic, chilli, ginger and spices and cook for 1 minute.",
+    "Add the potato and cook for 10--15 minutes. Add the spinach and stir until it wilts into the mixture."
+  ]
+}

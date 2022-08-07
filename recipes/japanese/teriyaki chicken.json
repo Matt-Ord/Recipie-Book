@@ -1,0 +1,74 @@
+{
+  "name": "Teriyaki Chicken",
+  "prep_time": 900,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Grams",
+            "number": 750.0
+          }
+        },
+        {
+          "name": "potato starch",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "salt and pepper"
+        },
+        {
+          "name": "rice to serve"
+        },
+        {
+          "name": "salad to serve"
+        }
+      ]
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "mirin",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "cooking sake",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put shallow cuts into the chicken to even out the thickness of each slice. Coat the chicken in potato starch, salt and pepper in a ziplock bag removing any excess clumps.",
+    "Cook the chicken skin side down in oil for 2-3 mins on medium heat until it starts to brown.",
+    "Flip the chicken, cook for a further 1-2 mins and use kitchen paper to wipe up any excess oil.",
+    "Add the teriyaki sauce mixture into the pan and cook on medium heat, making sure to flip the chicken to cook evenly. Serve with rice and salad."
+  ]
+}

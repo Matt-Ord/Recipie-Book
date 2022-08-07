@@ -1,0 +1,138 @@
+{
+  "name": "Gyros",
+  "prep_time": 1800,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "lamb mince",
+          "amount": {
+            "unit": "Grams",
+            "number": 750.0
+          }
+        },
+        {
+          "name": "bacon",
+          "amount": {
+            "unit": "Grams",
+            "number": 150.0
+          }
+        },
+        {
+          "name": "onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tzatziki"
+        },
+        {
+          "name": "pitta bread",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "chips to serve"
+        }
+      ]
+    },
+    {
+      "name": "Kebab Spices",
+      "ingredients": [
+        {
+          "name": "oregano",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cumin",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cinnamon",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greek Salad",
+      "ingredients": [
+        {
+          "name": "large vine tomatoes",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "cucumber",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "small red onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "olives"
+        },
+        {
+          "name": "feta cheese",
+          "amount": {
+            "unit": "Grams",
+            "number": 90.0
+          }
+        },
+        {
+          "name": "olive oil"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the mince with the spices, and leave to marinade.",
+    "Add meat, onion, bacon and garlic to a food processor and blend on low until it becomes a paste.",
+    "Compact meat in a loaf tin, cover with foil and cook in the oven for 20 mins. Remove foil and cook for a furhter 5 mins to brown.",
+    "To make the salad deeseed the cucumber and tomatoes and cut into irregular wedges. Combine salad ingredients in a bowl."
+  ]
+}

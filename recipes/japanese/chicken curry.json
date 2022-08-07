@@ -1,0 +1,124 @@
+{
+  "name": "Chicken Curry",
+  "prep_time": 900,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "potatoes",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "carrots",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "large chicken breast",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cups chicken stock",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "japanese rice"
+        }
+      ]
+    },
+    {
+      "name": "Curry Roux",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "flour",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "curry powder",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "garam masala",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "paprika",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "mirin",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "honey",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the butter in a saucepan and add the flour forming a smooth paste. Add the spices followed by the soy sauce, mirin and honey mixing well until the paste reaches a uniform colour.",
+    "Slowly add the chicken stock to thin out the paste. Roughly chop the vegetables and chicken breast.",
+    "Fry the onions until soft before adding the vegetables and frying for a furhter 5 mins.",
+    "Add the roux to the mix along with the remaining chicken stock and boil covered until the potato is cooked through, around 15 mins. Remove the lid and add the chicken, cooking until the sauce has thickened and the sauce reaches the desired thickness."
+  ]
+}

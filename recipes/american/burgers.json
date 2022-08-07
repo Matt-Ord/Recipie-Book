@@ -1,0 +1,60 @@
+{
+  "name": "Burgers",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "burgers",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "burger buns",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "chips to serve"
+        }
+      ]
+    },
+    {
+      "name": "toppings",
+      "ingredients": [
+        {
+          "name": "tomatoes"
+        },
+        {
+          "name": "avocados"
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "onion rings"
+        },
+        {
+          "name": "sriracha sauce"
+        },
+        {
+          "name": "cheese"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the burgers, chips and fry the onion.",
+    "Serve the burgers."
+  ]
+}

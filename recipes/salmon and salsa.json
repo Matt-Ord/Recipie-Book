@@ -1,0 +1,100 @@
+{
+  "name": "Salmon with Mango Salsa",
+  "prep_time": 1800,
+  "cook_time": 1500,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "salmon fillets",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "tbsp olive oil",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tsp lime zest",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tbsp lime juice",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "jasmine rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Salsa",
+      "ingredients": [
+        {
+          "name": "large mango",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "red bell pepper",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "fresh coriander"
+        },
+        {
+          "name": "small red onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "large avocado",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "tbsp lime juice",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix together olive oil, lime zest, lime juice, garlic and season with salt and pepper to taste.",
+    "Place salmon in baking dish, cover and allow to marinate.",
+    "While salmon is marinating prepare rice.",
+    "In a medium bowl toss together mango, bell pepper, coriander, red onion, avocado, lime juice and olive oil. Season with salt and pepper to taste.",
+    "Fry salmon in olive oil, about 3 minutes per side or until just cooked through"
+  ]
+}

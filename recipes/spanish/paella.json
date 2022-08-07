@@ -1,0 +1,68 @@
+{
+  "name": "Paella",
+  "prep_time": 600,
+  "cook_time": 1200,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "pack cooked prawns",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chorizo",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chicken breasts",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "paella rice"
+        },
+        {
+          "name": "peas"
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cups chicken stock",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "paella spice mix"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic, chorizo and finely chopped onion in a pan.",
+    "Slice the chicken into thin strips and add to the pan. Once cooked dice and add peppers, prawns, spice mix and peas.",
+    "Add the paella rice to the pan and slowly add the stock. Continue to top-up with water until the rice is cooked."
+  ]
+}

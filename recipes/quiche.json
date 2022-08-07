@@ -1,0 +1,50 @@
+{
+  "name": "Quiche",
+  "prep_time": 600,
+  "cook_time": 1500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "mushrooms"
+        },
+        {
+          "name": "bacon"
+        },
+        {
+          "name": "cheese",
+          "amount": {
+            "unit": "Grams",
+            "number": 75.0
+          }
+        },
+        {
+          "name": "eggs",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "milk",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 175.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven at 180°C",
+    ""
+  ]
+}

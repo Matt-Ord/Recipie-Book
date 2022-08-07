@@ -1,0 +1,139 @@
+{
+  "name": "Mapo Tofu",
+  "prep_time": 600,
+  "cook_time": 1500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "tofu",
+          "amount": {
+            "unit": "Grams",
+            "number": 900.0
+          }
+        },
+        {
+          "name": "pork mince",
+          "amount": {
+            "unit": "Grams",
+            "number": 500.0
+          }
+        },
+        {
+          "name": "sichuan peppercorns",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "garlic",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "chili bean sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "chilli oil",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "cornflour",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "bunches spring onion",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Beansprouts",
+      "ingredients": [
+        {
+          "name": "beansprouts",
+          "amount": {
+            "unit": "Grams",
+            "number": 600.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "brown sugar",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the peppercorns in a pan for 30 seconds before adding the garlic and ginger and frying for a furhter minute.",
+    "Turn up the heat to high and add the pork mince. Fry until cooked through.",
+    "Add the chili bean sauce and chicken stock and stir in well. Allow to simmer for a minute or so before adding the cornstarch.",
+    "After the sauce has thickened add the chilli oil and tofu. Cook for 5 mins before adding the sesame oil, sugar and spring onions.",
+    "For the beansprouts fry the garlic until it begins to brown, then add the beansprouts and fry for 1 minute. Add the remaining ingredients and fry until cooked through. Serve alongside the tofu and rice."
+  ]
+}

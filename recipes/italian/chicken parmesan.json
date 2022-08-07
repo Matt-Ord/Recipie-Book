@@ -1,0 +1,180 @@
+{
+  "name": "Chicken Parmesan",
+  "prep_time": 600,
+  "cook_time": 1200,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "eggs",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "mozzarella",
+          "amount": {
+            "unit": "Grams",
+            "number": 375.0
+          }
+        },
+        {
+          "name": "broccoli to serve"
+        }
+      ]
+    },
+    {
+      "name": "Breadcrum Mix",
+      "ingredients": [
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Cup",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "salt"
+        },
+        {
+          "name": "pepper"
+        }
+      ]
+    },
+    {
+      "name": "Ragu",
+      "ingredients": [
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "white wine",
+          "amount": {
+            "unit": "Cup",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "chopped tomato",
+          "amount": {
+            "unit": "Tins",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tomato puree",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "thyme",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "basil",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "oregano",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cajun pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Potato Rosti",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 2500.0
+          }
+        },
+        {
+          "name": "onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bacon"
+        },
+        {
+          "name": "paprika"
+        },
+        {
+          "name": "cayenne pepper"
+        },
+        {
+          "name": "salt"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the chicken into thin fillets and coat in the breadcrumbs before frying.",
+    "For the ragu fry the onion and garlic in a pan until soft. Add the Add wine, turn up heat and let it simmer rapidly until mostly evaporated. Add the tinned tomatoes along with the spices and simmer.",
+    "Place chicken in a dish and spoon ragu over the chicken. Sprinkle sauce with mozzarella cheese then parmesan. Drizzle oil over parmesan and bake 15 minutes until cheese is melted.",
+    "For the potato rostis grate potato into a bowl and use a tea-towel to remove potato water. Combine with finely slice onion, bacon and spices and fry in oil until crispy."
+  ]
+}

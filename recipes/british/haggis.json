@@ -1,0 +1,48 @@
+{
+  "name": "Haggis",
+  "prep_time": 1800,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "potato",
+          "amount": {
+            "unit": "Grams",
+            "number": 1200.0
+          }
+        },
+        {
+          "name": "turnip",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "milk"
+        },
+        {
+          "name": "haggis"
+        },
+        {
+          "name": "sausages"
+        },
+        {
+          "name": "gravy"
+        },
+        {
+          "name": "peas to serve"
+        },
+        {
+          "name": "carrots to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel and roughly chop the potatoes and turnip, boil. Once soft drain the potatoes and mash along with milk, butter, pepper to taste.",
+    "Cook the haggis and sausages and serve."
+  ]
+}

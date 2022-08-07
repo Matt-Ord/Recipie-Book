@@ -1,0 +1,57 @@
+{
+  "name": "Patatas Bravas",
+  "prep_time": 1200,
+  "cook_time": 3600,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 600.0
+          }
+        },
+        {
+          "name": "olive oil",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chopped tomato",
+          "amount": {
+            "unit": "Tins",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "chopped parsley, to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 225°C.",
+    "Peel the potatoes and cut into 2.5cm/1in cubes.",
+    "Heat the olive oil in a large roasting tin until really hot. Place the potatoes in the tin and shake them in the oil until covered. Season well with salt and freshly ground black pepper. Place in the hot oven for about ten minutes until they begin to turn golden-brown.",
+    "Add the tomatoes, chilli and garlic and stir well. Cook for another 25--35 minutes until the potatoes are soft on the inside and are crisp on the outside.",
+    "You can either add the parsley and serve, or refrigerate them until the next day, then reheat, adding more oil and then add the parsley before eating."
+  ]
+}

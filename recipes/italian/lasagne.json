@@ -1,0 +1,148 @@
+{
+  "name": "Lasagne",
+  "prep_time": 600,
+  "cook_time": 2400,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "lasagne sheets"
+        },
+        {
+          "name": "cheddar",
+          "amount": {
+            "unit": "Grams",
+            "number": 150.0
+          }
+        },
+        {
+          "name": "breadcrumbs"
+        },
+        {
+          "name": "salad to serve"
+        }
+      ]
+    },
+    {
+      "name": "Cheese Sauce",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        },
+        {
+          "name": "flour",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        },
+        {
+          "name": "milk",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 1500.0
+          }
+        },
+        {
+          "name": "mustard",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Grams",
+            "number": 100.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ragu",
+      "ingredients": [
+        {
+          "name": "beef mince",
+          "amount": {
+            "unit": "Grams",
+            "number": 900.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "cube beef stock",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "tomato puree",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "thyme",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "basil",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "oregano",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cajun pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chopped tomato",
+          "amount": {
+            "unit": "Tins",
+            "number": 3.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "For the ragu fry the onion and garlic in a pan until soft. Brown the mince then add the tinned tomatoes along with the spices. Crush the stock cube into the sauce and simmer.",
+    "For the cheese sauce melt the butter in a saucepan. Add the flour and cook for one minute. Gradually add the milk, mixing until thickened. Add the mustard and parmesan cheese and season with salt and pepper.",
+    "Build the lasagne, covering the top with breadcrumbs and cheddar cheese. Cook covered in the oven until the pasta is cooked through, and then leave for 5 mins uncovered to brown the upper layer."
+  ]
+}

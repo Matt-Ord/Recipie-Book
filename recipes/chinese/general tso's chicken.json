@@ -1,0 +1,134 @@
+{
+  "name": "General Tso's Chicken",
+  "prep_time": 600,
+  "cook_time": 2400,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cups cornstarch",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "red chillies"
+        },
+        {
+          "name": "spring onions"
+        },
+        {
+          "name": "salad to serve"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "soy sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "hoisin sauce",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "rice vinegar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chilli paste",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "sesame oil",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "brown sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "corn flour",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the soy, hoisin, vinegar, chilli and sesame oil. Take out 2 tablespoons of Sauce-Marinade and mix with chicken along with ginger and garlic.",
+    "Add cornflour into chicken and toss to coat. Add sugar and cornflour to the remaining sauce, mix in the chicken stock.",
+    "Fry the chicken in sesame oil until golden and crispy.",
+    "Place chicken on a paper towel lined plate. Wipe pan and fry garlic, ginger and chilli flakes for 30 seconds.",
+    "Add sauce until it thickens and toss with the chicken and spring onions. Serve with salad and sticky rice."
+  ]
+}

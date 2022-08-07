@@ -1,0 +1,78 @@
+\documentclass[a4paper,12pt]{book}
+\input{rules/rules.tex}
+
+\usepackage{textcomp}
+\usepackage{gensymb}
+
+\setcounter{secnumdepth}{0}
+\newcommand{\invisiblechapter}[1]{%
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+  \chaptermark{#1}}
+
+\Style{3}
+
+\title{Recipe Book}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+%\invisiblechapter{sad}
+\chapter{Indian}
+\input{generated/indian/biriyani.tex}
+\input{generated/indian/south indian fish curry.tex}
+\input{generated/indian/dal.tex}
+\input{generated/indian/tandoori.tex}
+\input{generated/indian/chana masala.tex}
+\input{generated/indian/saag aloo.tex}
+\input{generated/indian/chicken tikka masala.tex}
+\input{generated/indian/butter chicken.tex}
+\chapter{Chinese}
+\input{generated/chinese/general tso's chicken.tex}
+\input{generated/chinese/ginger chicken.tex}
+\input{generated/chinese/hainanese chicken rice.tex}
+\input{generated/chinese/5-spice chicken.tex}
+\input{generated/chinese/kung pao chicken.tex}
+\input{generated/chinese/mapo tofu.tex}
+\input{generated/chinese/szechuan shrimp.tex}
+\chapter{Japanese}
+\input{generated/japanese/chicken curry.tex}
+\input{generated/japanese/okonomiyaki.tex}
+\input{generated/japanese/teriyaki chicken.tex}
+\chapter{South East Asian}
+\input{generated/south east asian/nasi goreng.tex}
+\input{generated/south east asian/moqueca baiana.tex}
+\input{generated/south east asian/thai green curry.tex}
+\input{generated/south east asian/chicken adobo.tex}
+\input{generated/south east asian/gapao rice.tex}
+\input{generated/south east asian/khao man gai.tex}
+\input{generated/south east asian/garlic soy sauce salmon.tex}
+\chapter{Italian}
+\input{generated/italian/carbonara.tex}
+\input{generated/italian/lasagne.tex}
+\input{generated/italian/prawn linguine.tex}
+\input{generated/italian/tortellini.tex}
+\input{generated/italian/chicken parmesan.tex}
+\input{generated/italian/tomato pasta.tex}
+\input{generated/italian/pesto chicken pasta.tex}
+\chapter{French}
+\input{generated/french/potato dauphinoise.tex}
+\input{generated/french/coq au vin.tex}
+\chapter{Other}
+\input{generated/salmon and salsa}
+\input{generated/nigerian/jollof rice.tex}
+\input{generated/greek/gyros.tex}
+\input{generated/american/fajitas.tex}
+\input{generated/american/burgers.tex}
+\input{generated/american/cajun salmon.tex}
+\input{generated/british/haggis.tex}
+\input{generated/american/chilli.tex}
+\input{generated/spanish/paella.tex}
+
+%risotto
+%phad thai
+%sully salmon
+
+\end{document}

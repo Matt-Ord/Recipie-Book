@@ -1,0 +1,112 @@
+{
+  "name": "South Indian Fish Curry",
+  "prep_time": 600,
+  "cook_time": 1500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "white fish fillet",
+          "amount": {
+            "unit": "Grams",
+            "number": 750.0
+          }
+        },
+        {
+          "name": "black mustard seeds",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "curry leaves",
+          "amount": {
+            "unit": "Number",
+            "number": 18.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "grated ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "large garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cumin",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 600.0
+          }
+        },
+        {
+          "name": "coconut cream",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "lime",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "rice and chapatis to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "In a pan with a lid fry the mustard seeds and curry leaves until they start to pop and smell fragrant.",
+    "Add the ginger, garlic and chilli and fry for 30 seconds before frying the onion.",
+    "Add the ground spices and tomatoes  and simmer for 5 mins. Add the coconut cream and allow the sauce to thicken.",
+    "Add the fish and heat until it is cooked through. Serve with rice and chapatis."
+  ]
+}

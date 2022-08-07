@@ -1,0 +1,126 @@
+{
+  "name": "Fajitas",
+  "prep_time": 300,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "amount": {
+            "unit": "Grams",
+            "number": 650.0
+          }
+        },
+        {
+          "name": "bell peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "tin black beans",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "sachets fajita seasoning",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tortilla wraps",
+          "amount": {
+            "unit": "Number",
+            "number": 12.0
+          }
+        },
+        {
+          "name": "sour cream"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    },
+    {
+      "name": "Guacamole",
+      "ingredients": [
+        {
+          "name": "avocados",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "lime",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "red onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chopped cilantro",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tomatoes",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "minced garlic",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "pinch cayenne pepper",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "In a pan fry the onions and garlic. Slice the chicken into strips and add to the pan.",
+    "Once the chicken has cooked through add the peppers, black beans and fajita spices.",
+    "To make the guacamole finely slice the onion and tomatoes then combine with the crushed avacado. Add the cayenne pepper, cilantro and lime juice and mix throughly."
+  ]
+}

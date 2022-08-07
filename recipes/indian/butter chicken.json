@@ -1,0 +1,120 @@
+{
+  "name": "Butter Chicken",
+  "prep_time": 600,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": {
+            "unit": "Tins",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cream",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 450.0
+          }
+        },
+        {
+          "name": "sugar",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "basmati rice"
+        },
+        {
+          "name": "naan bread"
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "plain yoghurt",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "garam masala",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cumin",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "ginger",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Combine the Marinade ingredients with the chicken in a bowl and allow the mixture to marinade.",
+    "Heat the butter in a large fry pan. Place chicken in the fry pan and cook for around 3 minutes.",
+    "Add the tomatoes, cream, sugar and salt. Turn down to low and simmer for 20 minutes.",
+    "Serve with basmati rice and naan bread."
+  ]
+}

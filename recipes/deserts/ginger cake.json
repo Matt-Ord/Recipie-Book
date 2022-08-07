@@ -1,0 +1,59 @@
+{
+  "name": "Nan Ord's Ginger Cake",
+  "prep_time": 900,
+  "cook_time": 2700,
+  "serves": 5,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "stork butter",
+          "amount": {
+            "unit": "Grams",
+            "number": 120.0
+          }
+        },
+        {
+          "name": "caster sugar",
+          "amount": {
+            "unit": "Grams",
+            "number": 120.0
+          }
+        },
+        {
+          "name": "large eggs",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "flour",
+          "amount": {
+            "unit": "Grams",
+            "number": 240.0
+          }
+        },
+        {
+          "name": "heaped ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "1/2 tin golden syrup"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180°C",
+    "Cream together butter and caster sugar.",
+    "Combine flour and ground ginger, and mix in with butter as you do.",
+    "Warm about half a tin of golden syrup by placing tin on a saucepan.",
+    "Add the golden syrup to the mixture and add a little milk to acieve a soft consistancy.",
+    "Place mixture in the oven in a well greased and lined dish. Check after 40 minutes --- it may need 10 minutes more",
+    "Leave to cool, better eaten the next day (if you can wait)."
+  ]
+}

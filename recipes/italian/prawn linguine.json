@@ -1,0 +1,137 @@
+{
+  "name": "Prawn Linguine",
+  "prep_time": 600,
+  "cook_time": 1200,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "garlic",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "water",
+          "amount": {
+            "unit": "Cup",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "linguine",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "prawns",
+          "amount": {
+            "unit": "Grams",
+            "number": 500.0
+          }
+        },
+        {
+          "name": "white wine",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "sage",
+          "amount": {
+            "unit": "Cup",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cream",
+          "amount": {
+            "unit": "Cup",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "parsley",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "lemons",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruschetta",
+      "ingredients": [
+        {
+          "name": "rustic italian bread"
+        },
+        {
+          "name": "clove garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "tomatoes",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "small red onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "balsamic vinegar"
+        },
+        {
+          "name": "basil leaves"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry half the garlic in butter in a pot. Add the broth and water and bring to boil before adding the pasta. Once the pasta is cooked lower the heat and simmer until most of the liquid is adsorbed.",
+    "If using raw prawns fry in butter until cooked through. Add the remaining garlic, sage and white wine to the pan. Once the wine has evaporated remove from heat.",
+    "Add the shrimp, whipping cream, parmesan and parsley to the pasta. Finish with a squeeze of lemon. Add salt and pepper to taste.",
+    "For the bruschetta slice and toast the bread. Chop up the tomatoes, red onion basil and combine with the crushed garlic and vinegar."
+  ]
+}

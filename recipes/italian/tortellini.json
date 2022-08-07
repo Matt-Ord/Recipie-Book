@@ -1,0 +1,85 @@
+{
+  "name": "Tortellini",
+  "prep_time": 600,
+  "cook_time": 1200,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "tortellini",
+          "amount": {
+            "unit": "Grams",
+            "number": 1200.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Sauce",
+      "ingredients": [
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "mushrooms",
+          "amount": {
+            "unit": "Grams",
+            "number": 750.0
+          }
+        },
+        {
+          "name": "cream",
+          "amount": {
+            "unit": "Cup",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "chicken stock",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "white wine",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "parmesan",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "fresh thyme",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.5
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the onions and garlic in a pan before adding the mushrooms and cooking until golden brown.",
+    "Add the white wine and sizzle until mostly evaporated. Add broth, cream and parmesan and simmer on a low heat. Add the thyme, salt and pepper to taste.",
+    "Cook the pasta and combine with the sauce. Serve with salad."
+  ]
+}

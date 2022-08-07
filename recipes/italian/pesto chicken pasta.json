@@ -1,0 +1,93 @@
+{
+  "name": "Pesto Chicken Pasta Bake",
+  "prep_time": 600,
+  "cook_time": 2400,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "red peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "pot green pesto",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "pasta"
+        },
+        {
+          "name": "mozzarella"
+        },
+        {
+          "name": "breadcrumbs"
+        },
+        {
+          "name": "cheddar cheese"
+        }
+      ]
+    },
+    {
+      "name": "Tomato Sauce",
+      "ingredients": [
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "onions",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "oregano"
+        },
+        {
+          "name": "thyme"
+        },
+        {
+          "name": "basil"
+        },
+        {
+          "name": "paprika"
+        },
+        {
+          "name": "cayenne pepper"
+        },
+        {
+          "name": "salt and sugar to taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the onions and garlic in a pan. Add the tomatoes and simmer along with the spices.",
+    "Fry the chicken in the pesto along with the peppers. Cook the pasta and mix with the tomato sauce. Combine with the chicken and mozzarella, top with cheese and breadcrumbs and cook in the oven for 10 mins until crispy."
+  ]
+}

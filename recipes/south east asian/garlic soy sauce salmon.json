@@ -1,0 +1,49 @@
+{
+  "name": "Soy Sauce Salmon",
+  "prep_time": 300,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "salmon fillets",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "whole garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "balsamic vinegar"
+        },
+        {
+          "name": "soy sauce"
+        },
+        {
+          "name": "sesame oil"
+        },
+        {
+          "name": "broccoli"
+        },
+        {
+          "name": "oyster sauce"
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the garlic and place in a pan along with sesame oil and cook the salmon, making sure to season with salt and pepper.",
+    "Once the salmon is cooked remove from the pan and turn off the heat. Add equal parts soy sauce and vinegar to the pan to form a sauce.",
+    "Steam the broccoli and once cooked through drizzle over some oyster sauce. Serve with rice alongside the salmon."
+  ]
+}

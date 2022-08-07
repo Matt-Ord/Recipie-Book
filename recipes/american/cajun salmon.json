@@ -1,0 +1,89 @@
+{
+  "name": "Cajun Salmon",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "salmon fillets",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "cajun seasoning"
+        }
+      ]
+    },
+    {
+      "name": "patatas bravas",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "red chillies",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "chopped tomato",
+          "amount": {
+            "unit": "Tins",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "white wine",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "oregano"
+        },
+        {
+          "name": "basil"
+        },
+        {
+          "name": "paprika"
+        },
+        {
+          "name": "cayenne pepper"
+        },
+        {
+          "name": "salt and pepper to taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the potatoes into 1cm cubes and fry in a pan until cooked through and crispy. Toss with salt and pepper to taste.",
+    "To make the patatas bravas sauce fry the onions and garlic and chillies in a pan. Add the tomatoes wine and spices and allow the sauce to reduce. Combine with the potatoes before serving.",
+    "For the salmon place in a pan with around a tablespoon of olive oil and plenty of cajun seasoning. Rub the seasoning into the salmon and fry skin side down until almost cooked through. Turn off the hob and flip the salmon allowing the heat of the pan to cook the remaining third of the salmon. Once cooked serve immediately alongside patatas bravas."
+  ]
+}

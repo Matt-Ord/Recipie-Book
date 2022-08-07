@@ -1,0 +1,102 @@
+{
+  "name": "Moqueca Baiana",
+  "prep_time": 600,
+  "cook_time": 1500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "750g white fish fillet"
+        },
+        {
+          "name": "lime juice",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "medium onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "red bell peppers (sliced)",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tsp sugar",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "tbsp cumin",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tbsp paprika",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tbsp cayenne pepper",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "600ml coconut milk"
+        },
+        {
+          "name": "600ml canned tomatoes"
+        },
+        {
+          "name": "fish broth",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.5
+          }
+        },
+        {
+          "name": "tbsp lime juice",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "rice to serve"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Combine the fish, lime juice, oil, salt and pepper in a bowl. Cover with cling film and refrigerate for 20 minutes.",
+    "Heat the 1 tbsp olive oil in a large skillet over high heat. Add the fish and cook until just cooked through and light golden brown. Remove from the skillet and set aside.",
+    "Reduce the stove to medium high and heat 1 1/2 tbsp olive oil in the same skillet. Add the garlic and onion and cook for 1 1/2 minutes or until the onion is starting to become translucent.",
+    "Add the bell peppers and cook for 2 minutes.",
+    "Add the remaining Broth ingredients. Bring to simmer, then turn down to medium. Cook for 15 to 20 minutes or until it thickens. Adjust salt and pepper to taste.",
+    "Return the fish to the broth to reheat --- about 2 minutes. Stir through lime juice and serve with rice."
+  ]
+}

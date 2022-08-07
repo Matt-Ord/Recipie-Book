@@ -1,0 +1,74 @@
+{
+  "name": "Chicken \\& Mushroom Risotto",
+  "prep_time": 600,
+  "cook_time": 2400,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "mushrooms",
+          "amount": {
+            "unit": "Grams",
+            "number": 250.0
+          }
+        },
+        {
+          "name": "large onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "bell peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "risotto rice",
+          "amount": {
+            "unit": "Grams",
+            "number": 300.0
+          }
+        },
+        {
+          "name": "cubes chicken stock",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "grated parmesan",
+          "amount": {
+            "unit": "Grams",
+            "number": 50.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic and finely chopped onion in a pan.",
+    "Slice the chicken into thin strips and add to the pan. Once cooked dice and add peppers and mushrooms.",
+    "Add the risotto rice to the pan and slowly add the stock. Continue to top-up with water until the rice is cooked. Season with pepper.",
+    "Add the parmesan and stir through before serving."
+  ]
+}

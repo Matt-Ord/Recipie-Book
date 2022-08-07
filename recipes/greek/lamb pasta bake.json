@@ -1,0 +1,77 @@
+{
+  "name": "Lamb \\& Macaroni Pasta Bake",
+  "prep_time": 1200,
+  "cook_time": 4500,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "large onion chopped",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "500g lamb mince"
+        },
+        {
+          "name": "tsp ground cinnamon",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "lamb stock cube",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cans chopped tomato",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tbsp dried oregano",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "400g macaroni"
+        },
+        {
+          "name": "250g tub ricotta"
+        },
+        {
+          "name": "50g parmesan"
+        },
+        {
+          "name": "50ml milk"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat oil in a large pan. Add garlic and onion and cook for 10 minutes.",
+    "Tip in the lamb mince and brown. Once browned add cinnamon, crumbled stock cube, tomatoes and oregano.",
+    "Cook for 15 minutes covered and then 15 uncovered until the sauce has thickened.",
+    "Meanwhile cook the macaroni following pack instructions, pre-heat the oven to 200C.",
+    "Mix together the ricotta, most of the parmesan and the milk with plenty of seasoning, and stir into the macaroni. Tip the mince into a large baking dish, top with the macaroni mixture, and scatter over the remaining parmesan.",
+    "Bake for 30 mins until golden and bubbling."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Tandoori Chicken",
+  "prep_time": 600,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "boneless chicken\\\\ thighs",
+          "amount": {
+            "unit": "Kilograms",
+            "number": 1.2
+          }
+        },
+        {
+          "name": "red bell peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "limes",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "honey"
+        },
+        {
+          "name": "salad to serve"
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "ground ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "black pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "thyme",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "biriyani masala",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "tandoori masala",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "salt",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saffron Rice",
+      "ingredients": [
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 8.0
+          }
+        },
+        {
+          "name": "saffron",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.25
+          }
+        },
+        {
+          "name": "cups chicken stock",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "onion powder",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "basmati rice"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the marinade ingredients in a bowl and rub into the chicken.",
+    "Slice the peppers and limes into quarters, and place them alongside the chiken in an oven-proof dish.",
+    "Drizzle with honey and oil, cover dish with foil and place in oven (200°C) for just over an hour.",
+    "Place the saffron in a small bowl of boiling water and allow it to steep. Combine along with the remaining rice ingredients and cook. Serve alongside the chicken and salad."
+  ]
+}

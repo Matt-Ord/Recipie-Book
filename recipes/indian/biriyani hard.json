@@ -1,0 +1,175 @@
+{
+  "name": "Chicken Biriyani",
+  "prep_time": 1200,
+  "cook_time": 3600,
+  "serves": 8,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "750g chicken thighs"
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 4.0
+          }
+        },
+        {
+          "name": "tsp saffron",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "coriander",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "ml yoghurt",
+          "amount": {
+            "unit": "Number",
+            "number": 150.0
+          }
+        },
+        {
+          "name": "ml water",
+          "amount": {
+            "unit": "Number",
+            "number": 125.0
+          }
+        },
+        {
+          "name": "tbsp vegetable oil",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "tsp finely grated fresh ginger",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "1/8 tsp ground turmeric"
+        },
+        {
+          "name": "1/4 tsp cinnamon"
+        },
+        {
+          "name": "1/2 tsp cayenne"
+        },
+        {
+          "name": "1/2 tsp ground cardamom"
+        },
+        {
+          "name": "tsp garam marsala",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tsp coriander",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tbsp cumin",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "tbsp paprika",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "3/4 tsp salt",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "ingredients": [
+        {
+          "name": "tbsp salt",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "garlic cloves",
+          "amount": {
+            "unit": "Number",
+            "number": 10.0
+          }
+        },
+        {
+          "name": "dried bay leaves",
+          "amount": {
+            "unit": "Number",
+            "number": 5.0
+          }
+        },
+        {
+          "name": "star anise",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "green cardamon pods",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "450g basmati rice"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix Marinade in a large pot. Add chicken and coat well. Marinade 20 minutes to overnight.",
+    "Bring equal parts water and rice to boil, and add spices and cook rice until there is no more water. Place saffron in a bowl, leave for 10 minutes+.",
+    "Cook onion until golden brown in lots of oil. Remove onto paper towel lined plate.",
+    "Place pot with chicken in it onto a stove over medium heat. Cover and cook for 5 minutes.",
+    "Remove lid. Cook for 5 minutes, turning chicken twice.",
+    "Scatter over half the onion then half the coriander then top with all the rice. Gently pat down and flatten surface before randomly drizzling saffron across rice surface.",
+    "Place lid on. Return to stove over medium heat. As soon as you see steam, turn down to low then cook for 25 minutes. Remove from stove, rest with lid on for 10 minutes."
+  ]
+}

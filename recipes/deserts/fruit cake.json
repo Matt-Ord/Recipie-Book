@@ -1,0 +1,77 @@
+{
+  "name": "Fruit Cake",
+  "prep_time": 1200,
+  "cook_time": 6000,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "dried fruit",
+          "amount": {
+            "unit": "Grams",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "butter",
+          "amount": {
+            "unit": "Grams",
+            "number": 125.0
+          }
+        },
+        {
+          "name": "large eggs",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "milk",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 60.0
+          }
+        },
+        {
+          "name": "jam",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "brown sugar",
+          "amount": {
+            "unit": "Grams",
+            "number": 125.0
+          }
+        },
+        {
+          "name": "self-raising flour",
+          "amount": {
+            "unit": "Grams",
+            "number": 250.0
+          }
+        },
+        {
+          "name": "mixed spice",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 170°C",
+    "Put all the ingredients except the fruit into a large bowl, beat together well",
+    "Scrape the mixture down and mix again",
+    "Add the dried fruit and stir in by hand.",
+    "Put the mixture in the tin/liner and use a knife to make a slight depression in the top of the mixture. This means you will have less of a domed top.",
+    "Cook for 1 hour and 15 minutes, and test with a toothpick. When it comes out clean the cake is done. If not, return to the oven for 10 minutes and repeat. You may need up to 1 hour 45 mins.",
+    "Take the cake out of the oven and leave in the tin for 10 minutes before turning out onto a wire rack to cool. Store in an airtight box when cool."
+  ]
+}

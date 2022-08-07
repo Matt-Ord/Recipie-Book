@@ -1,0 +1,64 @@
+\documentclass[a4paper,12pt]{book}
+\input{rules/rules.tex}
+
+\usepackage{textcomp}
+\usepackage{gensymb}
+
+\setcounter{secnumdepth}{0}
+\newcommand{\invisiblechapter}[1]{%
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+  \chaptermark{#1}}
+
+\Style{3}
+
+\title{Recipe Book}
+\author{}
+\date{December 25, 2020}
+
+\begin{document}
+\maketitle
+\tableofcontents
+%\invisiblechapter{sad}
+\chapter{Asian}
+%\input{generated/florentin}
+\input{generated/indian/biriyani.tex}
+\input{generated/south east asian/nasi goreng}
+\input{generated/south east asian/moqueca baiana.tex}
+\input{generated/thai green curry.tex}
+\chapter{Italian}
+\input{generated/italian/carbonara.tex}
+\input{generated/italian/salmon carbonanra.tex}
+\input{generated/italian/chicken risotto.tex}
+\input{generated/spanish/paella.tex}
+\input{generated/greek/lamb pasta bake.tex}
+\input{generated/italian/sausage pasta bake.tex}
+\input{generated/italian/ricotta pasta bake.tex}
+\input{generated/italian/bolognese pasta bake.tex}
+\input{generated/italian/tomato ragu.tex}
+\chapter{French}
+\input{generated/french/potato dauphinoise.tex}
+\input{generated/french/beef stew.tex}
+\input{generated/lamb ratatouille.tex}
+\input{generated/french/coq au vin.tex}
+\chapter{Other}
+\input{generated/french/beef stroganoff.tex}
+\input{generated/toad in the hole.tex}
+\input{generated/fish pie.tex}
+\input{generated/roasted ham.tex}
+\input{generated/cauliflower cheese.tex}
+\input{generated/spanish/patatas bravas.tex}
+\input{generated/salmon and salsa}
+\chapter{Deserts}
+\input{generated/deserts/chocolate roulade.tex}
+\input{generated/deserts/yule log.tex}
+\input{generated/deserts/apple crumble.tex}
+\input{generated/deserts/apple frangipane.tex}
+\input{generated/deserts/fruit cake.tex}
+\input{generated/deserts/lemon drizzle cake.tex}
+\input{generated/deserts/strawberry pavlova.tex}
+\input{generated/deserts/caramel drip cake.tex}
+\input{generated/deserts/ginger cake.tex}
+\input{generated/deserts/victoria sandwich.tex}
+\input{generated/deserts/chocolate brownies.tex}
+\end{document}

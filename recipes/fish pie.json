@@ -1,0 +1,73 @@
+{
+  "name": "Fish Pie",
+  "prep_time": 600,
+  "cook_time": 2400,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "white potatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 1000.0
+          }
+        },
+        {
+          "name": "large onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "soft cheese",
+          "amount": {
+            "unit": "Grams",
+            "number": 250.0
+          }
+        },
+        {
+          "name": "mixed fish",
+          "amount": {
+            "unit": "Grams",
+            "number": 320.0
+          }
+        },
+        {
+          "name": "prawns",
+          "amount": {
+            "unit": "Grams",
+            "number": 190.0
+          }
+        },
+        {
+          "name": "handful fresh parsley"
+        },
+        {
+          "name": "milk"
+        },
+        {
+          "name": "fish stock",
+          "amount": {
+            "unit": "Millilitre",
+            "number": 100.0
+          }
+        },
+        {
+          "name": "cornflower",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven at 190°C. Put the potatoes in a large pan and cover with water. Bring to the boil and cook for 10--15 minutes until cooked through. Drain and mash, adding a little milk if you wish. Season with salt and pepper.",
+    "Meanwhile, heat the oil in a large saucepan and gently cook the onion for 5--10 minutes, until softened. Add the soft cheese and the stock and combine well.",
+    "Blend the cornflour with 2 teaspoons of cold water and stir into the sauce. Cook for a few more minutes until thickened. Add the fish pie mix and cook for 2 minutes before stirring in the prawns and parsley.",
+    "Pour into an oven dish and top with the mash. Cook for 25--30 minutes until piping hot."
+  ]
+}

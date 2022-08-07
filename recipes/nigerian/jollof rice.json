@@ -1,0 +1,183 @@
+{
+  "name": "Jollof Rice",
+  "prep_time": 1800,
+  "cook_time": 3600,
+  "serves": 6,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "chicken drums",
+          "amount": {
+            "unit": "Number",
+            "number": 18.0
+          }
+        },
+        {
+          "name": "jerk seasoning"
+        },
+        {
+          "name": "tin chopped tomatoes",
+          "amount": {
+            "unit": "Grams",
+            "number": 400.0
+          }
+        },
+        {
+          "name": "red peppers",
+          "amount": {
+            "unit": "Number",
+            "number": 6.0
+          }
+        },
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "scotch bonnets",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chicken stock"
+        },
+        {
+          "name": "rice"
+        },
+        {
+          "name": "peas to serve"
+        }
+      ]
+    },
+    {
+      "name": "Fried Onion",
+      "ingredients": [
+        {
+          "name": "large onions",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "tomato paste",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "cloves garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 3.0
+          }
+        },
+        {
+          "name": "turmeric",
+          "amount": {
+            "unit": "Tablespoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "coriander seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "cumin seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "mustard seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "fenugreek seeds",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "all spice",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "ground ginger",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "black pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "whole clove",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "nutmeg",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 0.5
+          }
+        },
+        {
+          "name": "thyme",
+          "amount": {
+            "unit": "Teaspoon",
+            "number": 2.0
+          }
+        },
+        {
+          "name": "bay leaves",
+          "amount": {
+            "unit": "Number",
+            "number": 2.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Marinate the chicken in jerk seasoning before cooking in the oven.",
+    "In a blender combine tomatoes, red peppers, 2 onions and scotch bonnet until smooth. Simmer covered in a large pot for 10--12 minutes.",
+    "Fry the garlic, whole spices and remaining onion for 2--3 minutes before adding the remaining spices, bay leaves and tomato paste.",
+    "After frying for a further 6 minutes add to the pot and allow the mixture to reduce for 10--12 mins.",
+    "Add equal volumes of chicken stock and rice to the pot, and cook the rice on low with a lid on the pan."
+  ]
+}

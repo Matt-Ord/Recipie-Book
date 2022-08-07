@@ -1,18 +1,9 @@
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.gz
-*.idx
-*.ilg
-*.ind
-*.toc
-*.bbl
-*.bcf
-*.blg
-*.run.xml
-*temp.tex
-*.synctex(busy)
-settings.json
-*.out
-*.pdf
+src/book_generator/target
+cargo.lock
+# *.fls
+# *.out
+# *.aux
+# *.log
+# *.fdb_latexmk
+# *.gz
+# *.toc

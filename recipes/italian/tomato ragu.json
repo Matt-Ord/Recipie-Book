@@ -1,0 +1,44 @@
+{
+  "name": "Tomato ragu",
+  "prep_time": 600,
+  "cook_time": 1800,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "clove garlic",
+          "amount": {
+            "unit": "Number",
+            "number": 1.0
+          }
+        },
+        {
+          "name": "chopped tomato",
+          "amount": {
+            "unit": "Grams",
+            "number": 800.0
+          }
+        },
+        {
+          "name": "fresh basil",
+          "amount": {
+            "unit": "Cup",
+            "number": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic and finely chopped onion in a pan.",
+    "Add tomato and basil. Season with salt and pepper, simmer for 30 minutes."
+  ]
+}
