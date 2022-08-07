@@ -1,7 +1,14 @@
 {
   "title": "Recipe",
-  "description": "A product from Acme's catalog",
   "type": "object",
+  "required": [
+    "name",
+    "prep_time",
+    "cook_time",
+    "serves",
+    "ingredient_groups",
+    "steps"
+  ],
   "properties": {
     "name": {
       "type": "string"
