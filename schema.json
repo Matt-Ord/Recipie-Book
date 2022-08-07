@@ -1,0 +1,71 @@
+{
+  "title": "Recipe",
+  "description": "A product from Acme's catalog",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "prep_time": {
+      "type": "number"
+    },
+    "cook_time": {
+      "type": "number"
+    },
+    "serves": {
+      "type": "number"
+    },
+    "ingredient_groups": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["ingredients"],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "ingredients": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["name"],
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "amount": {
+                  "type": "object",
+                  "required": ["number", "unit"],
+                  "properties": {
+                    "unit": {
+                      "type": "string",
+                      "enum": [
+                        "Number",
+                        "Tablespoon",
+                        "Grams",
+                        "Millilitre",
+                        "Kilograms"
+                      ]
+                    },
+                    "number": {
+                      "type": "number"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "steps": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,6 +1,13 @@
 {
-    "cSpell.words": [
-        "tbsp"
-    ],
-    "cSpell.language": "en-GB"
+  "cSpell.words": ["tbsp"],
+  "cSpell.language": "en-GB",
+  "json.schemas": [
+    {
+      "fileMatch": ["recipes/**/*"],
+      "url": "/schema.json"
+    }
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
