@@ -1,0 +1,57 @@
+{
+  "name": "Pork Bulgogi Rice",
+  "prep_time": 40,
+  "cook_time": 10,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "Pork Shoulder",
+          "amount": { "unit": "Grams", "number": 600 }
+        },
+        {
+          "name": "Onion",
+          "amount": { "unit": "Grams", "number": 200 }
+        },
+        { "name": "Spring Onion", "amount": { "unit": "Grams", "number": 30 } },
+        { "name": "Red Chillies" },
+        { "name": "Sesame Seeds" },
+        { "name": "Rice" },
+        { "name": "Cucumber / Lettuce" }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "Royal Gala Apple / pear",
+          "amount": { "unit": "Number", "number": 1 }
+        },
+        { "name": "Onion", "amount": { "unit": "Number", "number": 1 } },
+        {
+          "name": "Gochujang",
+          "amount": { "unit": "Tablespoon", "number": 3 }
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": { "unit": "Tablespoon", "number": 3 }
+        },
+        { "name": "Honey", "amount": { "unit": "Tablespoon", "number": 3 } },
+        {
+          "name": "Gochugaru",
+          "amount": { "unit": "Tablespoon", "number": 2 }
+        },
+        { "name": "Mirin", "amount": { "unit": "Tablespoon", "number": 2 } },
+        { "name": "Garlic", "amount": { "unit": "Tablespoon", "number": 1 } },
+        { "name": "Ginger", "amount": { "unit": "Tablespoon", "number": 1 } },
+        { "name": "Pepper", "amount": { "unit": "Teaspoon", "number": 0.125 } }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the marinade ingredients and marinate the meat for at least 30 minutes.",
+    "In a well heated wok fry the meat on medium high heat until about 3/4 cooked.",
+    "Add the onion and cook, garnish with chillies, green onion and sesame seeds. Serve with rice and salad."
+  ]
+}
