@@ -5,26 +5,6 @@
   "serves": 4,
   "ingredient_groups": [
     {
-      "name": "Marinade",
-      "ingredients": [
-        {
-          "name": "Shaoxing Wine",
-          "amount": { "number": 1, "unit": "Tablespoon" }
-        },
-        {
-          "name": "Light Soy Sauce",
-          "amount": { "number": 1, "unit": "Tablespoon" }
-        },
-        {
-          "name": "Dark Soy Sauce",
-          "amount": { "number": 1, "unit": "Teaspoon" }
-        },
-        { "name": "Ginger", "amount": { "number": 2, "unit": "Tablespoon" } },
-        { "name": "Sugar", "amount": { "number": 0.5, "unit": "Teaspoon" } },
-        { "name": "Cornstarch", "amount": { "number": 1, "unit": "Teaspoon" } }
-      ]
-    },
-    {
       "ingredients": [
         { "name": "Ground Pork", "amount": { "number": 225, "unit": "Grams" } },
         { "name": "Green Beans", "amount": { "number": 450, "unit": "Grams" } },
@@ -43,6 +23,26 @@
         },
         { "name": "Spring Onions" },
         { "name": "Rice" }
+      ]
+    },
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "Shaoxing Wine",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Light Soy Sauce",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Dark Soy Sauce",
+          "amount": { "number": 1, "unit": "Teaspoon" }
+        },
+        { "name": "Ginger", "amount": { "number": 2, "unit": "Tablespoon" } },
+        { "name": "Sugar", "amount": { "number": 0.5, "unit": "Teaspoon" } },
+        { "name": "Cornstarch", "amount": { "number": 1, "unit": "Teaspoon" } }
       ]
     }
   ],

@@ -406,16 +406,16 @@ fn recipe_to_markdown(recipe: Recipe) -> String {
         .iter()
         .map(|s| -> String { ingredient_group_to_markdown(s) })
         .collect::<Vec<String>>()
-        .join("\n");
-    let ingredients = format!("## Ingredients\n{groups}\n");
+        .join("\n\n");
+    let ingredients = format!("## Ingredients\n\n{groups}");
     let steps = recipe
         .steps
         .iter()
-        .map(|s| -> String { format!("* {s}") })
+        .map(|s| -> String { format!("- {s}") })
         .collect::<Vec<String>>()
         .join("\n");
-    let recipe = format!("## Method\n{steps}\n");
-    return format!("{begin_recipe}\n{ingredients}\n{recipe}");
+    let recipe = format!("## Method\n\n{steps}");
+    return format!("{begin_recipe}\n\n{ingredients}\n\n{recipe}\n");
 }
 
 fn ingredient_group_to_markdown(group: &IngredientGroup) -> String {
@@ -425,19 +425,19 @@ fn ingredient_group_to_markdown(group: &IngredientGroup) -> String {
         .map(|s| -> String {
             if let Some(amount) = &s.amount {
                 return format!(
-                    "* {description} {name}",
+                    "- {description} {name}",
                     name = s.name,
                     description = ingredient_amount_to_markdown(&amount)
                 );
             }
-            format!("* {name}", name = s.name)
+            format!("- {name}", name = s.name)
         })
         .collect::<Vec<String>>()
         .join("\n");
     if let Some(name) = &group.name {
-        return format!("### {name}\n{items}\n");
+        return format!("### {name}\n\n{items}");
     }
-    return format!("{items}\n");
+    return format!("{items}");
 }
 
 fn ingredient_amount_to_markdown(amount: &IngredientAmount) -> String {
