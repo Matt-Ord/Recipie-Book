@@ -56,7 +56,8 @@
                         "Kilograms",
                         "Teaspoon",
                         "Cup",
-                        "Tins"
+                        "Tins",
+                        "Inch"
                       ]
                     },
                     "number": {

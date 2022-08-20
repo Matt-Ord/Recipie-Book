@@ -6,7 +6,7 @@ Cook Time: 30 min
 
 Serves: 6
 ## Ingredients
-* 600 grams minced chicken
+* 600 g minced chicken
 * 8 tbsp potato starch
 * 6 cloves garlic
 * 2 tbsp dried chillies

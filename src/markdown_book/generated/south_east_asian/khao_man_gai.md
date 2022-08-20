@@ -6,7 +6,7 @@ Cook Time: 30 min
 
 Serves: 6
 ## Ingredients
-* 750 grams boneless chicken\\ thighs
+* 750 g boneless chicken\\ thighs
 * 8 tbsp potato starch
 * 6 cloves garlic
 * 2 tbsp fish sauce
@@ -18,9 +18,9 @@ Serves: 6
 
 ### Sauce
 * 2 tbsp fish sauce
-* 45 grams finely sliced ginger
+* 45 g finely sliced ginger
 * 6 cloves garlic
-* 60 grams miso
+* 60 g miso
 * 3 tbsp oyster sauce
 
 

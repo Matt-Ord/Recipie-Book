@@ -12,7 +12,7 @@ Serves: 4
 * 1 tsp round black pepper
 * 1 tsp sesame oil
 * 2 tsp cornflour
-* 100 grams mushrooms
+* 100 g mushrooms
 * 3 tbsp ginger
 * 2 tbsp sliced garlic
 * 3 tbsp shallots

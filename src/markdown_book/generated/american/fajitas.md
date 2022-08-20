@@ -6,7 +6,7 @@ Cook Time: 30 min
 
 Serves: 6
 ## Ingredients
-* 650 grams chicken breast
+* 650 g chicken breast
 * 5 bell peppers
 * 1 tin black beans
 * 6 cloves garlic

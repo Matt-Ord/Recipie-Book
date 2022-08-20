@@ -6,10 +6,10 @@ Cook Time: 15 min
 
 Serves: 4
 ## Ingredients
-* 100 grams pancetta
+* 100 g pancetta
 * \grams{50g} pecorino
 * 3 large eggs
-* 350 grams spaghetti
+* 350 g spaghetti
 * 4 cloves garlic
 
 

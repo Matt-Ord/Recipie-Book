@@ -7,13 +7,13 @@ Cook Time: 40 min
 Serves: 4
 ## Ingredients
 * 3 chicken breasts
-* 250 grams mushrooms
+* 250 g mushrooms
 * 1 large onion
 * 2 bell peppers
 * 2 cloves garlic
-* 300 grams risotto rice
+* 300 g risotto rice
 * 3 cubes chicken stock
-* 50 grams grated parmesan
+* 50 g grated parmesan
 
 
 ## Method

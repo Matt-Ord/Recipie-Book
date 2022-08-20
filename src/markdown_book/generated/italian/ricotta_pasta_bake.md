@@ -6,19 +6,19 @@ Cook Time: 40 min
 
 Serves: 6
 ## Ingredients
-* 300 grams pasta
+* 300 g pasta
 * 1.5 cups mozzarella
 
 ### ricotta
-* 500 grams ricotta
-* 50 grams parmesan
+* 500 g ricotta
+* 50 g parmesan
 * 2 cloves garlic
-* 350 grams spinach
-* 100 grams mozzarella
+* 350 g spinach
+* 100 g mozzarella
 
 ### pasta sauce
 * 2 garlic cloves
-* 700 grams passata
+* 700 g passata
 * 1 tsp garlic powder
 * 1 tsp onion powder
 * 2 tsp mixed italian herbs

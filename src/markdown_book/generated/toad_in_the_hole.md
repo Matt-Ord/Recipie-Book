@@ -8,7 +8,7 @@ Serves: 4
 ## Ingredients
 * 12 chipolatas
 * 1 tbsp sunflower oil
-* 140 grams plain flower
+* 140 g plain flower
 * 2 eggs
 * 175 ml milk
 

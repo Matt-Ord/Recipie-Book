@@ -6,13 +6,13 @@ Cook Time: 40 min
 
 Serves: 4
 ## Ingredients
-* 575 grams bramley apple
+* 575 g bramley apple
 * 2 tbsp caster sugar
 
 ### Crumble
-* 175 grams plain flour
-* 110 grams caster sugar
-* 110 grams butter
+* 175 g plain flour
+* 110 g caster sugar
+* 110 g butter
 
 ### Toipping
 * 1 tbsp rolled oats

@@ -7,12 +7,12 @@ Cook Time: 50 min
 Serves: 8
 ## Ingredients
 * 1/2 brioche loaf
-* 175 grams butter
-* 175 grams caster sugar
-* 175 grams ground almonds
+* 175 g butter
+* 175 g caster sugar
+* 175 g ground almonds
 * 1 tsp almond extract
 * 3 eggs
-* 25 grams plain flower
+* 25 g plain flower
 * 2 red apples
 * 2 tbsp apricot jam
 * 1 tbsp flaked almonds

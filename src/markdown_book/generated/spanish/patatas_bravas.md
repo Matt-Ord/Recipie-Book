@@ -6,7 +6,7 @@ Cook Time: 60 min
 
 Serves: 4
 ## Ingredients
-* 600 grams potatoes
+* 600 g potatoes
 * 2 tbsp olive oil
 * 2 tins chopped tomato
 * 3 red chillies

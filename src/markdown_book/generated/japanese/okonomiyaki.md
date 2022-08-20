@@ -6,11 +6,11 @@ Cook Time: 15 min
 
 Serves: 4
 ## Ingredients
-* 150 grams flour
+* 150 g flour
 * 9 eggs
 * 180 ml chicken stock
 * 1 tsp salt
-* 300 grams white cabbage
+* 300 g white cabbage
 * 1 onion
 * 4 bunch spring onions
 * 4 pork loins

@@ -9,7 +9,7 @@ Serves: 6
 * 5 chicken breasts
 * 3 eggs
 * 1 cups parmesan
-* 375 grams mozzarella
+* 375 g mozzarella
 * broccoli to serve
 
 ### Breadcrum Mix
@@ -31,7 +31,7 @@ Serves: 6
 * 1 tsp cajun pepper
 
 ### Potato Rosti
-* 2500 grams potatoes
+* 2500 g potatoes
 * 1 onion
 * bacon
 * paprika

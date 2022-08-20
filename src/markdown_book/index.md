@@ -40,11 +40,13 @@
 ## Korean Recipes
 
 - [Pork Bulgogi](generated/korean/pork_bulgogi.md)
+- [Soondubu Jjigae](generated/korean/soondubu_jjigae.md)
 
 ## Italian Recipes
 
 - [Carbonara](generated/italian/carbonara.md)
 - [Lasagne](generated/italian/lasagne.md)
+- [Pasta Primavera](generated/italian/pasta_primavera.md)
 - [Prawn Linguine](generated/italian/prawn_linguine.md)
 - [Tortellini](generated/italian/tortellini.md)
 - [Chicken Parmesan](generated/italian/chicken_parmesan.md)

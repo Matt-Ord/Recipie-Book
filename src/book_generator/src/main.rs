@@ -27,6 +27,7 @@ enum IngredientUnit {
     Millilitre,
     Number,
     Tins,
+    Inch,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -249,6 +250,7 @@ fn ingredient_amount_to_latex(amount: &IngredientAmount) -> String {
         IngredientUnit::Tablespoon => format!("\\tablespoons{{{number}}}"),
         IngredientUnit::Teaspoon => format!("\\teaspoons{{{number}}}"),
         IngredientUnit::Tins => format!("{number} tins"),
+        IngredientUnit::Inch => format!("{number} inches"),
     }
 }
 
@@ -442,13 +444,14 @@ fn ingredient_amount_to_markdown(amount: &IngredientAmount) -> String {
     let number = amount.number;
     match amount.unit {
         IngredientUnit::Cup => format!("{number} cups"),
-        IngredientUnit::Grams => format!("{number} grams"),
+        IngredientUnit::Grams => format!("{number} g"),
         IngredientUnit::Kilograms => format!("{number} kg"),
         IngredientUnit::Millilitre => format!("{number} ml"),
         IngredientUnit::Number => format!("{number}"),
         IngredientUnit::Tablespoon => format!("{number} tbsp"),
         IngredientUnit::Teaspoon => format!("{number} tsp"),
         IngredientUnit::Tins => format!("{number} tins"),
+        IngredientUnit::Inch => format!("{number} inches"),
     }
 }
 

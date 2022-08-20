@@ -8,7 +8,7 @@ Serves: 6
 ## Ingredients
 * 18 chicken drums
 * jerk seasoning
-* 400 grams tin chopped tomatoes
+* 400 g tin chopped tomatoes
 * 6 red peppers
 * 2 large onions
 * 1 scotch bonnets

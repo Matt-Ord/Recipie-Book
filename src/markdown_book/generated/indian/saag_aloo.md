@@ -7,7 +7,7 @@ Cook Time: 30 min
 Serves: 6
 ## Ingredients
 * 1 kg potatoes
-* 500 grams spinach
+* 500 g spinach
 * 3 onions
 * 3 red chillies
 * 2 tbsp grated ginger

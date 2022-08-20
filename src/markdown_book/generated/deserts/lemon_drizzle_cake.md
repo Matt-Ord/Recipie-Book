@@ -6,15 +6,15 @@ Cook Time: 45 min
 
 Serves: 5
 ## Ingredients
-* 225 grams butter
-* 225 grams caster sugar
+* 225 g butter
+* 225 g caster sugar
 * 4 eggs
-* 225 grams flour
+* 225 g flour
 * 1 lemon
 
 ### topping
 * 1 1/2 lemons, juiced
-* 85 grams caster sugar
+* 85 g caster sugar
 
 
 ## Method

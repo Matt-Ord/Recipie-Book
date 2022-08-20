@@ -6,7 +6,7 @@ Cook Time: 60 min
 
 Serves: 6
 ## Ingredients
-* 1200 grams potato
+* 1200 g potato
 * 1 turnip
 * milk
 * haggis

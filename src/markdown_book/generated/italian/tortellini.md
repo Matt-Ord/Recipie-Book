@@ -6,12 +6,12 @@ Cook Time: 20 min
 
 Serves: 6
 ## Ingredients
-* 1200 grams tortellini
+* 1200 g tortellini
 
 ### Mushroom Sauce
 * 6 cloves garlic
 * 2 onions
-* 750 grams mushrooms
+* 750 g mushrooms
 * 2 cups cream
 * 1 cups chicken stock
 * 1 cups white wine

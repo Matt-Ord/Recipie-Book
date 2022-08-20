@@ -6,7 +6,7 @@ Cook Time: 15 min
 
 Serves: 4
 ## Ingredients
-* 400 grams boneless chicken\\ thighs
+* 400 g boneless chicken\\ thighs
 * 4 tsp sichuan peppercorns
 * 5 cloves garlic
 * 4 birdseye chillies

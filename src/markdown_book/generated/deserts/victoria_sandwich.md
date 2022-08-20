@@ -6,16 +6,16 @@ Cook Time: 20 min
 
 Serves: 5
 ## Ingredients
-* 200 grams caster sugar
-* 200 grams softened butter
+* 200 g caster sugar
+* 200 g softened butter
 * 4 eggs beaten
-* 200 grams self-raising flour
+* 200 g self-raising flour
 * 1 tsp baking powder
 * 2 tbsp milk
 
 ### filling
-* 100 grams butter
-* 140 grams icing sugar
+* 100 g butter
+* 140 g icing sugar
 * 1 drop vanilla extract
 * strawberry jam
 * icing sugar

@@ -6,7 +6,7 @@ Cook Time: 30 min
 
 Serves: 6
 ## Ingredients
-* 750 grams boneless chicken\\ thighs
+* 750 g boneless chicken\\ thighs
 * 6 tbsp potato starch
 * salt and pepper
 * rice to serve

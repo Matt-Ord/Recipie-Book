@@ -6,8 +6,8 @@ Cook Time: 60 min
 
 Serves: 6
 ## Ingredients
-* 750 grams lamb mince
-* 150 grams bacon
+* 750 g lamb mince
+* 150 g bacon
 * 1 onion
 * 3 cloves garlic
 * tzatziki
@@ -26,7 +26,7 @@ Serves: 6
 * 1 cucumber
 * 1 small red onion
 * olives
-* 90 grams feta cheese
+* 90 g feta cheese
 * olive oil
 
 

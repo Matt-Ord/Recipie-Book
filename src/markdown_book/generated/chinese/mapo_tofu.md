@@ -6,8 +6,8 @@ Cook Time: 25 min
 
 Serves: 6
 ## Ingredients
-* 900 grams tofu
-* 500 grams pork mince
+* 900 g tofu
+* 500 g pork mince
 * 3 tbsp sichuan peppercorns
 * 6 tbsp garlic
 * 4 tbsp chili bean sauce
@@ -20,7 +20,7 @@ Serves: 6
 * rice to serve
 
 ### Beansprouts
-* 600 grams beansprouts
+* 600 g beansprouts
 * 8 cloves garlic
 * 1 tsp brown sugar
 * 2 tbsp soy sauce

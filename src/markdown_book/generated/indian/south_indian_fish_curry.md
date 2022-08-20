@@ -6,7 +6,7 @@ Cook Time: 25 min
 
 Serves: 6
 ## Ingredients
-* 750 grams white fish fillet
+* 750 g white fish fillet
 * 1.5 tbsp black mustard seeds
 * 18 curry leaves
 * 2 onions
@@ -16,7 +16,7 @@ Serves: 6
 * 3 tsp turmeric
 * 2 tsp coriander
 * 2 tsp cumin
-* 600 grams chopped tomatoes
+* 600 g chopped tomatoes
 * 400 ml coconut cream
 * 1 lime
 * rice and chapatis to serve

@@ -6,13 +6,13 @@ Cook Time: 100 min
 
 Serves: 6
 ## Ingredients
-* 400 grams dried fruit
-* 125 grams butter
+* 400 g dried fruit
+* 125 g butter
 * 3 large eggs
 * 60 ml milk
 * 1 tbsp jam
-* 125 grams brown sugar
-* 250 grams self-raising flour
+* 125 g brown sugar
+* 250 g self-raising flour
 * 2 tsp mixed spice
 
 

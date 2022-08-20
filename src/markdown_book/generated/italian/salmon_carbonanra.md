@@ -6,13 +6,13 @@ Cook Time: 10 min
 
 Serves: 2
 ## Ingredients
-* 200 grams spaghetti
+* 200 g spaghetti
 * 1 tsp butter
 * 1 clove garlic
 * 150 ml double cream
 * 2 eggs
 * 3 tbsp parmesan
-* 120 grams smoked salmon
+* 120 g smoked salmon
 * chives to garnish
 
 

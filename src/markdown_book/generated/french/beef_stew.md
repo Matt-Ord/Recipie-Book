@@ -6,14 +6,14 @@ Cook Time: 120 min
 
 Serves: 4
 ## Ingredients
-* 750 grams beef steak
+* 750 g beef steak
 * 2 tbsp flour
 * 2 cloves garlic
-* 175 grams onions
-* 150 grams celery
-* 150 grams carrots
+* 175 g onions
+* 150 g celery
+* 150 g carrots
 * 2 leeks
-* 200 grams swede
+* 200 g swede
 * 150 ml red wine
 * 500 ml beef stock
 * 2 bay leaves
@@ -22,9 +22,9 @@ Serves: 4
 * Worcestershire sauce
 
 ### dumplings
-* 125 grams plain flour
+* 125 g plain flour
 * 1 tsp baking powder
-* 60 grams suet
+* 60 g suet
 
 
 ## Method

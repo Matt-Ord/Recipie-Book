@@ -7,19 +7,19 @@ Cook Time: 40 min
 Serves: 6
 ## Ingredients
 * lasagne sheets
-* 150 grams cheddar
+* 150 g cheddar
 * breadcrumbs
 * salad to serve
 
 ### Cheese Sauce
-* 100 grams butter
-* 100 grams flour
+* 100 g butter
+* 100 g flour
 * 1500 ml milk
 * 1.5 tbsp mustard
-* 100 grams parmesan
+* 100 g parmesan
 
 ### Ragu
-* 900 grams beef mince
+* 900 g beef mince
 * 4 onions
 * 6 cloves garlic
 * 1 cube beef stock

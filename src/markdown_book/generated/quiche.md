@@ -9,7 +9,7 @@ Serves: 6
 * 2 onion
 * mushrooms
 * bacon
-* 75 grams cheese
+* 75 g cheese
 * 2 eggs
 * 175 ml milk
 

@@ -11,11 +11,11 @@ Serves: 2
 * 1 cube beef stock
 * 2 tsp smoked paprika
 * 1 tbsp tomato puree
-* 400 grams beef consommé
-* 150 grams chestnut mushrooms
+* 400 g beef consommé
+* 150 g chestnut mushrooms
 * 1 tbsp dijon mustard
 * 2 rump steaks
-* 60 grams small gherkins
+* 60 g small gherkins
 * 75 ml crème fraîche
 * 4 tbsp parsley
 * 2 tbsp onion flakes

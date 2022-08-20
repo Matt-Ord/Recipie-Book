@@ -6,10 +6,10 @@ Cook Time: 45 min
 
 Serves: 5
 ## Ingredients
-* 120 grams stork butter
-* 120 grams caster sugar
+* 120 g stork butter
+* 120 g caster sugar
 * 2 large eggs
-* 240 grams flour
+* 240 g flour
 * 2 tsp heaped ginger
 * 1/2 tin golden syrup
 

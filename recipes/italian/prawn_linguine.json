@@ -8,123 +8,72 @@
       "ingredients": [
         {
           "name": "butter",
-          "amount": {
-            "unit": "Tablespoon",
-            "number": 8.0
-          }
+          "amount": { "unit": "Tablespoon", "number": 8.0 }
         },
         {
           "name": "garlic",
-          "amount": {
-            "unit": "Tablespoon",
-            "number": 8.0
-          }
+          "amount": { "unit": "Tablespoon", "number": 8.0 }
         },
         {
           "name": "chicken stock",
-          "amount": {
-            "unit": "Cup",
-            "number": 6.0
-          }
+          "amount": { "unit": "Cup", "number": 6.0 }
         },
         {
           "name": "water",
-          "amount": {
-            "unit": "Cup",
-            "number": 6.0
-          }
+          "amount": { "unit": "Cup", "number": 6.0 }
         },
         {
           "name": "linguine",
-          "amount": {
-            "unit": "Kilograms",
-            "number": 1.0
-          }
+          "amount": { "unit": "Kilograms", "number": 1.0 }
         },
         {
           "name": "prawns",
-          "amount": {
-            "unit": "Grams",
-            "number": 500.0
-          }
+          "amount": { "unit": "Grams", "number": 500.0 }
         },
         {
           "name": "white wine",
-          "amount": {
-            "unit": "Cup",
-            "number": 1.5
-          }
+          "amount": { "unit": "Cup", "number": 1.5 }
         },
         {
           "name": "sage",
-          "amount": {
-            "unit": "Cup",
-            "number": 0.5
-          }
+          "amount": { "unit": "Cup", "number": 0.5 }
         },
         {
           "name": "parmesan",
-          "amount": {
-            "unit": "Cup",
-            "number": 1.0
-          }
+          "amount": { "unit": "Cup", "number": 1.0 }
         },
         {
           "name": "cream",
-          "amount": {
-            "unit": "Cup",
-            "number": 2.0
-          }
+          "amount": { "unit": "Cup", "number": 2.0 }
         },
         {
           "name": "parsley",
-          "amount": {
-            "unit": "Cup",
-            "number": 1.0
-          }
+          "amount": { "unit": "Cup", "number": 1.0 }
         },
         {
           "name": "lemons",
-          "amount": {
-            "unit": "Number",
-            "number": 2.0
-          }
+          "amount": { "unit": "Number", "number": 2.0 }
         }
       ]
     },
     {
       "name": "Bruschetta",
       "ingredients": [
-        {
-          "name": "rustic italian bread"
-        },
+        { "name": "rustic italian bread" },
         {
           "name": "clove garlic",
-          "amount": {
-            "unit": "Number",
-            "number": 1.0
-          }
+          "amount": { "unit": "Number", "number": 1.0 }
         },
         {
           "name": "tomatoes",
-          "amount": {
-            "unit": "Number",
-            "number": 3.0
-          }
+          "amount": { "unit": "Number", "number": 3.0 }
         },
         {
           "name": "small red onion",
-          "amount": {
-            "unit": "Number",
-            "number": 1.0
-          }
+          "amount": { "unit": "Number", "number": 1.0 }
         },
-        {
-          "name": "balsamic vinegar"
-        },
-        {
-          "name": "basil leaves"
-        }
+        { "name": "balsamic vinegar" },
+        { "name": "basil leaves" }
       ]
     }
   ],

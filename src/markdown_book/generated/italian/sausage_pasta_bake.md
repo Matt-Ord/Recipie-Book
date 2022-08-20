@@ -7,12 +7,12 @@ Cook Time: 60 min
 Serves: 5
 ## Ingredients
 * 6 pork sausages
-* 680 grams passata
+* 680 g passata
 * 1 tbsp oregano
-* 500 grams pasta
-* 400 grams spinach
-* 700 grams cheese sauce
-* 100 grams parmesan
+* 500 g pasta
+* 400 g spinach
+* 700 g cheese sauce
+* 100 g parmesan
 * 1 egg
 
 

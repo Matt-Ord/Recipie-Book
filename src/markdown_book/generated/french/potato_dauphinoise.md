@@ -10,7 +10,7 @@ Serves: 6
 * 500 ml double cream
 * 500 ml milk
 * 150 ml vegetable stock
-* 100 grams gruyère cheese
+* 100 g gruyère cheese
 
 
 ## Method

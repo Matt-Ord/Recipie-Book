@@ -1,0 +1,52 @@
+{
+  "name": "Soondubu Jjigae",
+  "prep_time": 900,
+  "cook_time": 300,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        { "name": "Kombu", "amount": { "number": 4, "unit": "Inch" } },
+        {
+          "name": "dried Anchovies",
+          "amount": { "number": 0.5, "unit": "Cup" }
+        },
+        {
+          "name": "Kimchi with juice",
+          "amount": { "number": 2, "unit": "Cup" }
+        },
+        { "name": "Pork belly", "amount": { "number": 250, "unit": "Grams" } },
+        {
+          "name": "bunch Spring Onions",
+          "amount": { "number": 1, "unit": "Number" }
+        },
+        {
+          "name": "cloves Garlic",
+          "amount": { "number": 4, "unit": "Number" }
+        },
+        {
+          "name": "Gochujang",
+          "amount": { "number": 2, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Gochugaru",
+          "amount": { "number": 3, "unit": "Tablespoon" }
+        },
+        { "name": "Tofu", "amount": { "number": 700, "unit": "Grams" } },
+        { "name": "Eggs", "amount": { "number": 4, "unit": "Number" } },
+        { "name": "Rice" },
+        { "name": "Salad or wilted Spinach to serve" }
+      ]
+    }
+  ],
+  "steps": [
+    "Combine kombu and anchovies and cover with water. Bring to a simmer and then remove from heat. Let stand for 5 minutes before straining.",
+    "Heat oil in a saucepan and add the pork, stirring constantly until cooked through (about 1 minute).",
+    "Add kimchi, the spring onion whites and garlic and fry until fragrant. Add kimchi juice, gochujang and soy sauce and cook until the vegetables are well coated.",
+    "Add the broth, gochugaru and tofu and simmer. Remove from heat and stir through the eggs, serving immediately with rice and salad topped with the spring onion greens."
+  ]
+}

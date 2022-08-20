@@ -6,11 +6,11 @@ Cook Time: 40 min
 
 Serves: 4
 ## Ingredients
-* 1000 grams white potatoes
+* 1000 g white potatoes
 * 1 large onion
-* 250 grams soft cheese
-* 320 grams mixed fish
-* 190 grams prawns
+* 250 g soft cheese
+* 320 g mixed fish
+* 190 g prawns
 * handful fresh parsley
 * milk
 * 100 ml fish stock

@@ -7,10 +7,10 @@ Cook Time: 30 min
 Serves: 2
 ## Ingredients
 * 1 onion
-* 650 grams baby plum tomatoes
+* 650 g baby plum tomatoes
 * 5 cloves garlic
-* 30 grams basil
-* 300 grams spaghetti
+* 30 g basil
+* 300 g spaghetti
 * parmesan to serve
 
 

@@ -6,9 +6,9 @@ Cook Time: 120 min
 
 Serves: 6
 ## Ingredients
-* 250 grams pasta shells
-* 200 grams mascarpone
-* 250 grams mozzarella
+* 250 g pasta shells
+* 200 g mascarpone
+* 250 g mozzarella
 * large bunch basil
 * 3 cloves garlic
 * parmesan
@@ -17,12 +17,12 @@ Serves: 6
 * 1 onion
 * 1 stick celery
 * 1 carrot
-* 400 grams beef mince
+* 400 g beef mince
 * 2 cloves garlic
 * 250 ml red wine
 * 1 tbsp tomato puree
 * 3 bay leaves
-* 800 grams chopped tomato
+* 800 g chopped tomato
 * 2 tsp balsamic vinegar
 
 

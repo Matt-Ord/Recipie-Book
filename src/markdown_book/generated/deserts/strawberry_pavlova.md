@@ -7,14 +7,14 @@ Cook Time: 60 min
 Serves: 6
 ## Ingredients
 * 4 eff whites
-* 250 grams caster sugar
+* 250 g caster sugar
 * 1 tsp white wine vinegar
 * 1 tsp cornflour
 * 1 tsp vanilla extract
 
 ### topping
-* 500 grams strawberries
-* 200 grams redcurrants
+* 500 g strawberries
+* 200 g redcurrants
 * 3 tbsp icing sugar
 
 

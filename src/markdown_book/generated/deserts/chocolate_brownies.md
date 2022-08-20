@@ -6,14 +6,14 @@ Cook Time: 30 min
 
 Serves: 8
 ## Ingredients
-* 185 grams unsalted butter
-* 185 grams dark chocolate
-* 85 grams plain flour
-* 40 grams cocoa powder
-* 50 grams white chocolate
-* 50 grams milk chocolate
+* 185 g unsalted butter
+* 185 g dark chocolate
+* 85 g plain flour
+* 40 g cocoa powder
+* 50 g white chocolate
+* 50 g milk chocolate
 * 3 large eggs
-* 275 grams caster sugar
+* 275 g caster sugar
 
 
 ## Method

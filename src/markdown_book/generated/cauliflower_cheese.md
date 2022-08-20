@@ -7,11 +7,11 @@ Cook Time: 50 min
 Serves: 4
 ## Ingredients
 * 1 head cauliflower
-* 40 grams butter
-* 40 grams flour
+* 40 g butter
+* 40 g flour
 * 400 ml milk
 * 1 tsp mustard
-* 100 grams cheddar
+* 100 g cheddar
 
 
 ## Method

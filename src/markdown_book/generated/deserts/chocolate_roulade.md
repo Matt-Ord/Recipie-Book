@@ -6,8 +6,8 @@ Cook Time: 20 min
 
 Serves: 8
 ## Ingredients
-* 175 grams plain chocolate
-* 175 grams caster sugar
+* 175 g plain chocolate
+* 175 g caster sugar
 * 6 large eggs
 * 2 tbsp cocoa powder
 * 300 ml double cream

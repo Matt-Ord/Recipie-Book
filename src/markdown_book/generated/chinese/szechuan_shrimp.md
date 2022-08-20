@@ -6,16 +6,16 @@ Cook Time: 25 min
 
 Serves: 6
 ## Ingredients
-* 700 grams prawns
+* 700 g prawns
 * 1 tsp cornstarch
 * 1 tsp ginger
 * 3 tsp chilli bean sauce
 * 6 cloves garlic
-* 400 grams shallots
+* 400 g shallots
 * 3 tbsp ketchup
 * 3 tbsp hoisin sauce
 * 3 tbsp shaoxing wine
-* 400 grams water chestnuts
+* 400 g water chestnuts
 * 2 carrots finely chopped
 * 2 red bell peppers
 * 2 cups chicken stock

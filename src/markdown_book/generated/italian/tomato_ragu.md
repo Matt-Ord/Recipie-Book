@@ -8,7 +8,7 @@ Serves: 4
 ## Ingredients
 * 1 onion
 * 1 clove garlic
-* 800 grams chopped tomato
+* 800 g chopped tomato
 * 1 cups fresh basil
 
 

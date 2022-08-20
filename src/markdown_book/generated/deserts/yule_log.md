@@ -6,11 +6,11 @@ Cook Time: 20 min
 
 Serves: 8
 ## Ingredients
-* 300 grams dark chocolate
-* 100 grams caster sugar
-* 65 grams self-raising flour
+* 300 g dark chocolate
+* 100 g caster sugar
+* 65 g self-raising flour
 * 4 large eggs
-* 40 grams cocoa powder
+* 40 g cocoa powder
 * 300 ml double cream
 * icing sugar
 

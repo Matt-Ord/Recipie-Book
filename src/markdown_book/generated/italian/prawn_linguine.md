@@ -11,7 +11,7 @@ Serves: 6
 * 6 cups chicken stock
 * 6 cups water
 * 1 kg linguine
-* 500 grams prawns
+* 500 g prawns
 * 1.5 cups white wine
 * 0.5 cups sage
 * 1 cups parmesan
