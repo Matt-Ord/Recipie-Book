@@ -1,0 +1,57 @@
+{
+  "name": "Pork and Green Bean Stir Fry",
+  "prep_time": 1800,
+  "cook_time": 900,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "name": "Shaoxing Wine",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Light Soy Sauce",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "Dark Soy Sauce",
+          "amount": { "number": 1, "unit": "Teaspoon" }
+        },
+        { "name": "Ginger", "amount": { "number": 2, "unit": "Tablespoon" } },
+        { "name": "Sugar", "amount": { "number": 0.5, "unit": "Teaspoon" } },
+        { "name": "Cornstarch", "amount": { "number": 1, "unit": "Teaspoon" } }
+      ]
+    },
+    {
+      "ingredients": [
+        { "name": "Ground Pork", "amount": { "number": 225, "unit": "Grams" } },
+        { "name": "Green Beans", "amount": { "number": 450, "unit": "Grams" } },
+        { "name": "Garlic", "amount": { "number": 2, "unit": "Tablespoon" } },
+        { "name": "Red Pepper", "amount": { "number": 1, "unit": "Number" } },
+        { "name": "Red Chillies", "amount": { "number": 4, "unit": "Number" } },
+        { "name": "Sugar", "amount": { "number": 0.25, "unit": "Teaspoon" } },
+        { "name": "Sesame Oil", "amount": { "number": 1, "unit": "Teaspoon" } },
+        {
+          "name": "Light Soy Sauce",
+          "amount": { "number": 1, "unit": "Tablespoon" }
+        },
+        {
+          "name": "White Pepper",
+          "amount": { "number": 0.25, "unit": "Teaspoon" }
+        },
+        { "name": "Spring Onions" },
+        { "name": "Rice" }
+      ]
+    }
+  ],
+  "steps": [
+    "Combine the ground meat with the marinade ingredients and allow to rest for 15-20 mins.",
+    "Heat oil in a wok and fry the chopped green beans until slightly charred.",
+    "Remove beans from the pan and fry the pork, allowing the mince to brown and crisp.",
+    "Remove the mince and reduce the heat to medium. Fry the garlic and chillies before adding the red bell peppers.",
+    "Fry for a minute before adding back in the pork, green beans and spring onions.",
+    "Add the sugar, sesame oil, soy sauce and pepper along with 2 tablespoons of water. Fry on high for 10-15s and serve with rice."
+  ]
+}

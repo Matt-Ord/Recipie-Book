@@ -1,0 +1,47 @@
+{
+  "name": "Ginataang Manok (Unofficial)",
+  "prep_time": 720,
+  "cook_time": 2700,
+  "serves": 4,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "Chicken Drumsticks",
+          "amount": { "number": 900, "unit": "Grams" }
+        },
+        {
+          "name": "Coconut Milk",
+          "amount": { "number": 500, "unit": "Millilitre" }
+        },
+        { "name": "Spinach" },
+        { "name": "Garlic", "amount": { "number": 2, "unit": "Tablespoon" } },
+        {
+          "name": "julienned Ginger",
+          "amount": { "number": 2, "unit": "Tablespoon" }
+        },
+        { "name": "Onion", "amount": { "number": 1, "unit": "Number" } },
+        {
+          "name": "Green Papaya",
+          "amount": { "number": 250, "unit": "Grams" }
+        },
+        { "name": "Paprika", "amount": { "number": 1, "unit": "Teaspoon" } },
+        {
+          "name": "long Green Chilli",
+          "amount": { "number": 1, "unit": "Number" }
+        },
+        {
+          "name": "thai Red Chilli",
+          "amount": { "number": 4, "unit": "Number" }
+        },
+        { "name": "Rice" }
+      ]
+    }
+  ],
+  "steps": [
+    "Brown the chicken thighs in a large pot. Remove and fry the garlic, onion and ginger until soft.",
+    "Add back the chicken, paprika and coconut milk and bring to a boil. Simmer for 30 mins.",
+    "Once the sauce begins to thicken add the chillies and cook for a further 5 mins.",
+    "Add the green papaya and cook for 5-8 mins before adding the spinach. Season to taste and allow the spinach to wilt. Serve with rice."
+  ]
+}

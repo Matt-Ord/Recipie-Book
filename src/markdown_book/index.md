@@ -3,7 +3,7 @@
 ## Indian Recipes
 
 - [Biriyani](generated/indian/biriyani.md)
-- [South Indian Fish Curry](generated/indian/south_indian_fish_curry.md.md)
+- [South Indian Fish Curry](generated/indian/south_indian_fish_curry.md)
 - [Dal](generated/indian/dal.md)
 - [Tandoori](generated/indian/tandoori.md)
 - [Chana Masala](generated/indian/chana_masala.md)
@@ -20,6 +20,7 @@
 - [Kung Pao Chicken](generated/chinese/kung_pao_chicken.md)
 - [Mapo Tofu](generated/chinese/mapo_tofu.md)
 - [Szechuan Shrimp](generated/chinese/szechuan_shrimp.md)
+- [Green bean Stir Fry](generated/chinese/pork_and_green_bean.md)
 
 ## Japanese Recipes
 
@@ -36,6 +37,7 @@
 - [Gapao Rice](generated/south_east_asian/gapao_rice.md)
 - [Khao man gai](generated/south_east_asian/khao_man_gai.md)
 - [Garlic Soy Sauce Salmon](generated/south_east_asian/garlic_soy_sauce_salmon.md)
+- [Ginataang Manok (Unofficial)](generated/south_east_asian/ginataang_manok.md)
 
 ## Korean Recipes
 
