@@ -1,0 +1,31 @@
+{
+  "name": "Spring Onion and Pea Spaghetti",
+  "prep_time": 1800,
+  "cook_time": 1800,
+  "serves": 2,
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        {
+          "name": "English Peas in pod",
+          "amount": { "number": 400, "unit": "Grams" }
+        },
+        { "name": "Garlic Clove", "amount": { "number": 1, "unit": "Number" } },
+        { "name": "Spaghetti", "amount": { "number": 350, "unit": "Grams" } },
+        { "name": "Spaghetti", "amount": { "number": 350, "unit": "Grams" } },
+        {
+          "name": "fresh Parsley",
+          "amount": { "number": 2, "unit": "Tablespoon" }
+        },
+        { "name": "Butter" },
+        { "name": "Parmesan Cheese" }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat butter in a wide pan. Add spring onion and soften gently, add the peas, salt and 3tbsp water. Simmer until water evaporates.",
+    "Add garlic, parsley and 3tbsp olive oil. Cover and cook on a low heat for 15 minutes.",
+    "Add prosciutto and cook until peas are soft, adding oil if more liquid is required.",
+    "Cook spaghetti, drain and add to peas, serve with parmesan."
+  ]
+}

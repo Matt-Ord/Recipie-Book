@@ -1,3 +1,5 @@
+# Recipe Generator
+
 To generate the latex and md files use
 
 ```shell

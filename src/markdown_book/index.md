@@ -49,6 +49,7 @@
 - [Carbonara](generated/italian/carbonara.md)
 - [Lasagne](generated/italian/lasagne.md)
 - [Pasta Primavera](generated/italian/pasta_primavera.md)
+- [Spring Onion Pasta](generated/italian/spring_onion_pasta.md)
 - [Prawn Linguine](generated/italian/prawn_linguine.md)
 - [Tortellini](generated/italian/tortellini.md)
 - [Chicken Parmesan](generated/italian/chicken_parmesan.md)
