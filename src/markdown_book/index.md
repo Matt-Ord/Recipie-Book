@@ -28,6 +28,7 @@
 - [Chicken Curry Rice](generated/japanese/chicken_curry.md)
 - [Okonomiyaki](generated/japanese/okonomiyaki.md)
 - [Teriyaki Chicken](generated/japanese/teriyaki_chicken.md)
+- [oyakudon](https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe)
 
 ## South East Asian Recipes
 
