@@ -45,6 +45,7 @@
 
 - [Pork Bulgogi](generated/korean/pork_bulgogi.md)
 - [Soondubu Jjigae](generated/korean/soondubu_jjigae.md)
+- [salmon bibimbab](https://thewoksoflife.com/salmon-bibimbap/)
 
 ## Italian Recipes
 
