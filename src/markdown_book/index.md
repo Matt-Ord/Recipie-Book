@@ -59,6 +59,7 @@
 - [Tomato Pasta](generated/italian/tomato_pasta.md)
 - [Pesto Chicken Pasta](generated/italian/pesto_chicken_pasta.md)
 - [Butternut Squash Risotto](generated/italian/butternut_squash_risotto.md)
+- [Pasta alla Norma](https://thewoksoflife.com/pasta-alla-norma-roasted/)
 
 ## French Recipes
 
