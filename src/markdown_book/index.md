@@ -78,3 +78,4 @@
 - [Haggis](generated/british/haggis.md)
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
+- [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
