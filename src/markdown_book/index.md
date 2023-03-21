@@ -79,3 +79,8 @@
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
 - [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
+
+## Todo
+-beetroot and thyme risotto 
+-Beef stew
+-sausage and red onion hotpot 
