@@ -40,6 +40,7 @@
 - [Khao man gai](generated/south_east_asian/khao_man_gai.md)
 - [Garlic Soy Sauce Salmon](generated/south_east_asian/garlic_soy_sauce_salmon.md)
 - [Ginataang Manok (Unofficial)](generated/south_east_asian/ginataang_manok.md)
+- Thai Jok with pork meatballs 
 
 ## Korean Recipes
 
@@ -81,6 +82,6 @@
 - [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
 
 ## Todo
--beetroot and thyme risotto 
--Beef stew
--sausage and red onion hotpot 
+- beetroot and thyme risotto 
+- Beef stew
+- sausage and red onion hotpot 
