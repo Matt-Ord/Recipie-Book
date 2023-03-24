@@ -82,6 +82,8 @@
 - [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
 
 ## Todo
+
+- Katsudon
 - beetroot and thyme risotto 
 - Beef stew
-- sausage and red onion hotpot 
+- sausage and red onion hotpot
