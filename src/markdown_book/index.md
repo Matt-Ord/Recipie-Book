@@ -5,11 +5,13 @@
 - [Biriyani](generated/indian/biriyani.md)
 - [South Indian Fish Curry](generated/indian/south_indian_fish_curry.md)
 - [Dal](generated/indian/dal.md)
+- green dal
 - [Tandoori](generated/indian/tandoori.md)
 - [Chana Masala](generated/indian/chana_masala.md)
 - [Saag Aloo](generated/indian/saag_aloo.md)
 - [Chicken Tikka Masala](generated/indian/chicken_tikka_masala.md)
 - [Butter Chicken](generated/indian/butter_chicken.md)
+- chicken korma 
 
 ## Chinese Recipes
 
