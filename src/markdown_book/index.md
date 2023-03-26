@@ -11,7 +11,7 @@
 - [Saag Aloo](generated/indian/saag_aloo.md)
 - [Chicken Tikka Masala](generated/indian/chicken_tikka_masala.md)
 - [Butter Chicken](generated/indian/butter_chicken.md)
-- chicken korma 
+- [chicken korma](https://www.indianhealthyrecipes.com/chicken-korma-recipe/)
 
 ## Chinese Recipes
 
