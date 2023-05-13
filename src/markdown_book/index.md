@@ -70,6 +70,7 @@
 
 - [Potato Dauphinoise](generated/french/potato_dauphinoise.md)
 - [Coq au vin](generated/french/coq_au_vin.md)
+- [provencal-baked-fish](https://www.thefrenchcookingacademy.com/recipes/provencal-baked-fish)
 
 ## Other Recipes
 
