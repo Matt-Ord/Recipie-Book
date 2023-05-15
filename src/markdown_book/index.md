@@ -88,7 +88,7 @@
 ## Todo
 
 - Katsudon
-- [https://youtu.be/1a9ykfgC13Y](beetroot and thyme risotto)
+- [beetroot and thyme risotto](https://youtu.be/1a9ykfgC13Y)
 - Beef stew
 - sausage and red onion hotpot
 - Vietnam fish in fish sauce caramel 
