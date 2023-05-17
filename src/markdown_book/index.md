@@ -5,7 +5,7 @@
 - [Biriyani](generated/indian/biriyani.md)
 - [South Indian Fish Curry](generated/indian/south_indian_fish_curry.md)
 - [Dal](generated/indian/dal.md)
-- green dal
+- [green dal](https://slowthecookdown.com/green-lentil-daal-easy-weeknight-meal/#recipe)
 - [Tandoori](generated/indian/tandoori.md)
 - [Chana Masala](generated/indian/chana_masala.md)
 - [Saag Aloo](generated/indian/saag_aloo.md)
