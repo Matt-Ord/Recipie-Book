@@ -77,6 +77,7 @@
 - [Salmon and Mango Salsa](generated/salmon_and_salsa.md)
 - [Jollof Rice](generated/nigerian/jollof_rice.md)
 - [Gyros](generated/greek/gyros.md)
+- [lamb koftas](https://www.recipetineats.com/lamb-koftas-yoghurt-dressing-2/)
 - [Fajitas](generated/american/fajitas.md)
 - [Burgers](generated/american/burgers.md)
 - [Cajun Salmon](generated/american/cajun_salmon.md)
