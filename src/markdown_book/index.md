@@ -72,19 +72,26 @@
 - [Coq au vin](generated/french/coq_au_vin.md)
 - [provencal-baked-fish](https://www.thefrenchcookingacademy.com/recipes/provencal-baked-fish)
 
+## Mediterranean Recipes
+- [Gyros](generated/greek/gyros.md)
+- [lemon chicken](https://www.recipetineats.com/one-pot-greek-chicken-lemon-rice/)
+- [lamb koftas](https://www.recipetineats.com/lamb-koftas-yoghurt-dressing-2/)
+- [with mejadra rice](https://www.recipetineats.com/middle-eastern-rice-mejadra/)
+- [spanakopita](https://www.recipetineats.com/spanakopita-greek-spinach-pie/#wprm-recipe-container-59675)
+- [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
+
 ## Other Recipes
 
 - [Salmon and Mango Salsa](generated/salmon_and_salsa.md)
 - [Jollof Rice](generated/nigerian/jollof_rice.md)
-- [Gyros](generated/greek/gyros.md)
-- [lamb koftas](https://www.recipetineats.com/lamb-koftas-yoghurt-dressing-2/)
+
 - [Fajitas](generated/american/fajitas.md)
 - [Burgers](generated/american/burgers.md)
 - [Cajun Salmon](generated/american/cajun_salmon.md)
 - [Haggis](generated/british/haggis.md)
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
-- [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
+
 
 ## Todo
 
@@ -93,3 +100,5 @@
 - Beef stew
 - sausage and red onion hotpot
 - Vietnam fish in fish sauce caramel 
+- [Pasta chi Vruoccoli Arriminati](https://www.seriouseats.com/pasta-chi-vruoccoli-arriminati-sicilian-pasta-with-cauliflower)
+- [mousaka](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/)
