@@ -79,6 +79,9 @@
 - [with mejadra rice](https://www.recipetineats.com/middle-eastern-rice-mejadra/)
 - [spanakopita](https://www.recipetineats.com/spanakopita-greek-spinach-pie/#wprm-recipe-container-59675)
 - [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
+- [chicken sharwama](https://www.recipetineats.com/chicken-sharwama-middle-eastern/)
+- [or falafel](https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe)
+- [with pittas](https://www.seriouseats.com/perfect-pita-bread-recipe)
 
 ## Other Recipes
 
