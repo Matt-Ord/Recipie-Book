@@ -24,6 +24,7 @@
 - [Szechuan Shrimp](generated/chinese/szechuan_shrimp.md)
 - [Green bean Stir Fry](generated/chinese/pork_and_green_bean.md)
 - [Eggplant with Thai basil chicken](https://thewoksoflife.com/japanese-eggplant-chicken-thai-basil-stir-fry/)
+- [Chicken Chow Mein](https://www.seriouseats.com/chicken-chow-mein-from-the-chinese-takeout-co)
 
 ## Japanese Recipes
 
@@ -65,6 +66,9 @@
 - [Pasta alla Norma](https://thewoksoflife.com/pasta-alla-norma-roasted/)
 - [Ragu Bolognese](https://www.bonappetit.com/recipe/classic-rag-bolognese)
 - [Pasta Puttanesca](https://www.seriouseats.com/spaghetti-puttanesca-pasta-week-capers-olives-anchovies-recipe)
+- [Focaccia](https://www.seriouseats.com/easy-no-knead-olive-rosemary-pistachio-focaccia-kenji-recipe)
+- [Chicago Thin Pizza](https://youtu.be/5mIbyUgNOlo)
+- [New York Pizza](https://www.seriouseats.com/new-york-style-pizza)
 
 ## French Recipes
 
