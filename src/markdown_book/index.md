@@ -113,3 +113,4 @@
 - [boiled beef](https://thewoksoflife.com/sichuan-boiled-beef/)
 - [shaanxi saozi main](https://thewoksoflife.com/shaanxi-saozi-mian/)
 - [shrimp with black bean sauce](https://thewoksoflife.com/shrimp-black-bean-sauce/)
+- [detroit pizza](https://www.seriouseats.com/detroit-style-pizza-recipe)
