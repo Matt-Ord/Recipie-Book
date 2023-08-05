@@ -111,6 +111,7 @@
 - [mousaka](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/)
 - [chicken cacciatore](https://www.seriouseats.com/chicken-cacciatore-mushrooms-recipe)
 - [dakgalbi](https://www.bonappetit.com/recipe/dakgalbi)
+- [Jjamppong](https://mykoreankitchen.com/korean-spicy-seafood-noodle-soup/)
 - [boiled beef](https://thewoksoflife.com/sichuan-boiled-beef/)
 - [shaanxi saozi main](https://thewoksoflife.com/shaanxi-saozi-mian/)
 - [shrimp with black bean sauce](https://thewoksoflife.com/shrimp-black-bean-sauce/)
