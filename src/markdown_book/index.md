@@ -111,3 +111,4 @@
 - [mousaka](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/)
 - [chicken cacciatore](https://www.seriouseats.com/chicken-cacciatore-mushrooms-recipe)
 - [dakgalbi](https://www.bonappetit.com/recipe/dakgalbi)
+- [boiled beef](https://thewoksoflife.com/sichuan-boiled-beef/)
