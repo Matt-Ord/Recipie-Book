@@ -111,3 +111,4 @@
 - [chicken cacciatore](https://www.seriouseats.com/chicken-cacciatore-mushrooms-recipe)
 - [dakgalbi](https://www.bonappetit.com/recipe/dakgalbi)
 - [boiled beef](https://thewoksoflife.com/sichuan-boiled-beef/)
+- [shaanxi saozi main](https://thewoksoflife.com/shaanxi-saozi-mian/)
