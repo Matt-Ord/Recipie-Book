@@ -91,14 +91,13 @@
 
 - [Salmon and Mango Salsa](generated/salmon_and_salsa.md)
 - [Jollof Rice](generated/nigerian/jollof_rice.md)
-
 - [Fajitas](generated/american/fajitas.md)
 - [Burgers](generated/american/burgers.md)
 - [Cajun Salmon](generated/american/cajun_salmon.md)
 - [Haggis](generated/british/haggis.md)
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
-
+- [Carrot Cake](https://www.livewellbakeoften.com/the-best-carrot-cake-recipe/)
 
 ## Todo
 
