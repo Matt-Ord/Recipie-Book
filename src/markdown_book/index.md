@@ -112,3 +112,4 @@
 - [dakgalbi](https://www.bonappetit.com/recipe/dakgalbi)
 - [boiled beef](https://thewoksoflife.com/sichuan-boiled-beef/)
 - [shaanxi saozi main](https://thewoksoflife.com/shaanxi-saozi-mian/)
+- [shrimp with black bean sauce](https://thewoksoflife.com/shrimp-black-bean-sauce/)
