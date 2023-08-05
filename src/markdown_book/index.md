@@ -44,6 +44,7 @@
 - [Garlic Soy Sauce Salmon](generated/south_east_asian/garlic_soy_sauce_salmon.md)
 - [Ginataang Manok (Unofficial)](generated/south_east_asian/ginataang_manok.md)
 - Thai Jok with pork meatballs 
+- [Filipino chicken stew](https://schoolofwok.co.uk/tips-and-recipes/filipino-chicken-stew)
 
 ## Korean Recipes
 
