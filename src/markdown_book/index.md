@@ -110,3 +110,4 @@
 - [Pasta chi Vruoccoli Arriminati](https://www.seriouseats.com/pasta-chi-vruoccoli-arriminati-sicilian-pasta-with-cauliflower)
 - [mousaka](https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/)
 - [chicken cacciatore](https://www.seriouseats.com/chicken-cacciatore-mushrooms-recipe)
+- [dakgalbi](https://www.bonappetit.com/recipe/dakgalbi)
