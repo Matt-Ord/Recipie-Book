@@ -120,3 +120,4 @@
 - [detroit pizza](https://www.seriouseats.com/detroit-style-pizza-recipe)
 - [vegan veggie Ragu](https://www.greatbritishchefs.com/recipes/root-vegetable-bolognese-recipe)
 - [cari poisson](https://www.greatbritishchefs.com/recipes/cari-poisson-fish-aubergine-curry-recipe)
+- [makerel kedgeree](https://www.greatbritishchefs.com/recipes/mackerel-and-brown-rice-kedgeree)
