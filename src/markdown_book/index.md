@@ -119,3 +119,4 @@
 - [shrimp with black bean sauce](https://thewoksoflife.com/shrimp-black-bean-sauce/)
 - [detroit pizza](https://www.seriouseats.com/detroit-style-pizza-recipe)
 - [vegan veggie Ragu](https://www.greatbritishchefs.com/recipes/root-vegetable-bolognese-recipe)
+- [cari poisson](https://www.greatbritishchefs.com/recipes/cari-poisson-fish-aubergine-curry-recipe)
