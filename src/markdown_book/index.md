@@ -122,3 +122,5 @@
 - [vegan veggie Ragu](https://www.greatbritishchefs.com/recipes/root-vegetable-bolognese-recipe)
 - [cari poisson](https://www.greatbritishchefs.com/recipes/cari-poisson-fish-aubergine-curry-recipe)
 - [makerel kedgeree](https://www.greatbritishchefs.com/recipes/mackerel-and-brown-rice-kedgeree)
+- [Ganach Lupia](https://www.seriouseats.com/fassoulia-armenian-braised-green-beans-5498678)
+- [Veggie Biryani](https://www.seriouseats.com/vegetable-biryani-5324853)
