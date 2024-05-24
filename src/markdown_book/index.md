@@ -102,6 +102,7 @@
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
 - [Carrot Cake](https://www.livewellbakeoften.com/the-best-carrot-cake-recipe/)
+- [beef rice](https://www.recipetineats.com/one-pot-moussaka-beef-rice-pilaf/)
 
 ## Todo
 
