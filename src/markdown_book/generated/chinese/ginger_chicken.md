@@ -32,7 +32,7 @@ Serves: 4
 - Mix the soy sauce, rice wine, 1/2 tsp salt, 1/4 tsp pepper and sesame oil and pour over the chicken.
 - Mix in the cornflour until the pieces are thouroughly coated.
 - Wash the mushrooms slice finely and discard the stems.
-- Heat a wock on high heat and fry the ginger in groundnut oil until crispy. Add the chicken and fry until brown.
+- Heat a wok on high heat and fry the ginger in groundnut oil until crispy. Add the chicken and fry until brown.
 - In a fresh pan fry the garlic and shallots. Add back in the chicken and mushrooms and fry for 2 mins.
 - Add the fish sauce, oyster sauce, sugar and chicken stock. Cover and simmer for 8 mins.
 - Add the spring onions and remove the cover to allow the sauce to reduce. Serve with rice and salad.
