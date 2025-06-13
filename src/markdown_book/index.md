@@ -98,6 +98,7 @@
 - [Fajitas](generated/american/fajitas.md)
 - [Burgers](generated/american/burgers.md)
 - [Cajun Salmon](generated/american/cajun_salmon.md)
+- Salmon, Cauliflower Rice and sweet potato mash
 - [Haggis](generated/british/haggis.md)
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
