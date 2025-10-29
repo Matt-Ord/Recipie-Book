@@ -104,6 +104,7 @@
 - [Paella](generated/spanish/paella.md)
 - [Carrot Cake](https://www.livewellbakeoften.com/the-best-carrot-cake-recipe/)
 - [Hummingbird Cake](https://sallysbakingaddiction.com/hummingbird-cake/)
+- [Pumpkin Spice Cake](https://sallysbakingaddiction.com/iced-pumpkin-coffee-cake/#tasty-recipes-76212)
 - [beef rice](https://www.recipetineats.com/one-pot-moussaka-beef-rice-pilaf/)
 
 ## Todo
