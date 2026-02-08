@@ -47,6 +47,7 @@
 - [Ginataang Manok (Unofficial)](generated/south_east_asian/ginataang_manok.md)
 - Thai Jok with pork meatballs 
 - [Filipino chicken stew](https://schoolofwok.co.uk/tips-and-recipes/filipino-chicken-stew)
+- [tom yum noodle soup](generated/south_east_asian/tom_yum_soup.md)
 
 ## Korean Recipes
 
