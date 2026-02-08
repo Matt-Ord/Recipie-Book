@@ -1,7 +1,3 @@
-Here is your Tom Yum Noodle Soup recipe, formatted specifically to match the structure of the GitHub repository you shared.
-
----
-
 # Tom Yum Noodle Soup
 
 * **Cook time:** 15 mins
