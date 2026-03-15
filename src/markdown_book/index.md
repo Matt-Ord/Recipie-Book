@@ -95,6 +95,8 @@
 ## Other Recipes
 
 - [Salmon and Mango Salsa](generated/salmon_and_salsa.md)
+- [Sausage and Lentil Stew](https://www.seriouseats.com/30-minute-sausage-and-lentil-stew-recipe-11897958)
+- with smashed new potatoes
 - [Jollof Rice](generated/nigerian/jollof_rice.md)
 - [Fajitas](generated/american/fajitas.md)
 - [Burgers](generated/american/burgers.md)
