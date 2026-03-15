@@ -100,6 +100,7 @@
 - [Burgers](generated/american/burgers.md)
 - [Cajun Salmon](generated/american/cajun_salmon.md)
 - Salmon, Cauliflower Rice and sweet potato mash
+- chicken sandwich 
 - [Haggis](generated/british/haggis.md)
 - [Chilli](generated/american/chilli.md)
 - [Paella](generated/spanish/paella.md)
@@ -129,3 +130,4 @@
 - [makerel kedgeree](https://www.greatbritishchefs.com/recipes/mackerel-and-brown-rice-kedgeree)
 - [Ganach Lupia](https://www.seriouseats.com/fassoulia-armenian-braised-green-beans-5498678)
 - [Veggie Biryani](https://www.seriouseats.com/vegetable-biryani-5324853)
+- [Guinness Brownie](https://sallysbakingaddiction.com/guinness-brownies/)
