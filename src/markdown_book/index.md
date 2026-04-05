@@ -95,7 +95,7 @@
 ## Other Recipes
 
 - [Salmon and Mango Salsa](generated/salmon_and_salsa.md)
-- [sofrito de verduras](genereted/other/sofrito.md)
+- [sofrito de verduras](genereted/sofrito.md)
 - with smashed new potatoes, sebass and a poached egg
 - [Jollof Rice](generated/nigerian/jollof_rice.md)
 - [Fajitas](generated/american/fajitas.md)
