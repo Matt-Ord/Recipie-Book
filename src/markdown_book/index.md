@@ -54,7 +54,8 @@
 - [Pork Bulgogi](generated/korean/pork_bulgogi.md)
 - [Soondubu Jjigae](generated/korean/soondubu_jjigae.md)
 - [salmon bibimbab](https://thewoksoflife.com/salmon-bibimbap/)
-
+- [Spam Fried Rice]( https://www.seriouseats.com/kimchi-spam-fried-rice-recipe)
+  
 ## Italian Recipes
 
 - [Carbonara](generated/italian/carbonara.md)
