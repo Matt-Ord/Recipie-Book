@@ -74,6 +74,7 @@
 - [Focaccia](https://www.seriouseats.com/easy-no-knead-olive-rosemary-pistachio-focaccia-kenji-recipe)
 - [Chicago Thin Pizza](https://youtu.be/5mIbyUgNOlo)
 - [New York Pizza](https://www.seriouseats.com/new-york-style-pizza)
+- Pea Pasta
 
 ## French Recipes
 
