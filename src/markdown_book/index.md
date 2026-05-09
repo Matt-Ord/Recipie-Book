@@ -66,6 +66,7 @@
 - [Tortellini](generated/italian/tortellini.md)
 - [Chicken Parmesan](generated/italian/chicken_parmesan.md)
 - [Tomato Pasta](generated/italian/tomato_pasta.md)
+- Assassin's Pasta 
 - [Pesto Chicken Pasta](generated/italian/pesto_chicken_pasta.md)
 - [Butternut Squash Risotto](generated/italian/butternut_squash_risotto.md)
 - [Pasta alla Norma](https://thewoksoflife.com/pasta-alla-norma-roasted/)
